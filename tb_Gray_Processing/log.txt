@@ -1,0 +1,6 @@
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.

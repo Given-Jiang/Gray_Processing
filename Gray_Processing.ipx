@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+ <!--  date: 2015.02.27.10:13:58 -->
+ <component
+   name="Gray_Processing"
+   file="Gray_Processing.slx"
+   displayName="Gray_Processing"
+   version="1.0"
+   description="A DSP Builder System."
+   tags="AUTHORSHIP=DSPBuilder Design"
+   categories="DSPBuilder 7.1 Components"
+   factory="DSPBuilderFactory" />
+ <component
+   name="Gray_Processing_Interface"
+   file="Gray_Processing.slx"
+   displayName="Gray_Processing_Interface"
+   version="1.0"
+   description="A DSP Builder System."
+   tags="AUTHORSHIP=DSPBuilder Design"
+   categories="DSPBuilder Systems"
+   factory="DSPBuilderFactory" />
+</library>

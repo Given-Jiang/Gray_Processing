@@ -1,0 +1,2134 @@
+|Gray_Processing
+Avalon_ST_Sink_data[0] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[0]
+Avalon_ST_Sink_data[1] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[1]
+Avalon_ST_Sink_data[2] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[2]
+Avalon_ST_Sink_data[3] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[3]
+Avalon_ST_Sink_data[4] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[4]
+Avalon_ST_Sink_data[5] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[5]
+Avalon_ST_Sink_data[6] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[6]
+Avalon_ST_Sink_data[7] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[7]
+Avalon_ST_Sink_data[8] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[8]
+Avalon_ST_Sink_data[9] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[9]
+Avalon_ST_Sink_data[10] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[10]
+Avalon_ST_Sink_data[11] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[11]
+Avalon_ST_Sink_data[12] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[12]
+Avalon_ST_Sink_data[13] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[13]
+Avalon_ST_Sink_data[14] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[14]
+Avalon_ST_Sink_data[15] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[15]
+Avalon_ST_Sink_data[16] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[16]
+Avalon_ST_Sink_data[17] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[17]
+Avalon_ST_Sink_data[18] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[18]
+Avalon_ST_Sink_data[19] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[19]
+Avalon_ST_Sink_data[20] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[20]
+Avalon_ST_Sink_data[21] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[21]
+Avalon_ST_Sink_data[22] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[22]
+Avalon_ST_Sink_data[23] => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_data[23]
+Avalon_ST_Sink_endofpacket => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_endofpacket
+Avalon_ST_Sink_ready <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_ready
+Avalon_ST_Sink_startofpacket => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_startofpacket
+Avalon_ST_Sink_valid => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Sink_valid
+Avalon_ST_Source_data[0] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[0]
+Avalon_ST_Source_data[1] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[1]
+Avalon_ST_Source_data[2] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[2]
+Avalon_ST_Source_data[3] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[3]
+Avalon_ST_Source_data[4] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[4]
+Avalon_ST_Source_data[5] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[5]
+Avalon_ST_Source_data[6] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[6]
+Avalon_ST_Source_data[7] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[7]
+Avalon_ST_Source_data[8] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[8]
+Avalon_ST_Source_data[9] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[9]
+Avalon_ST_Source_data[10] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[10]
+Avalon_ST_Source_data[11] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[11]
+Avalon_ST_Source_data[12] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[12]
+Avalon_ST_Source_data[13] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[13]
+Avalon_ST_Source_data[14] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[14]
+Avalon_ST_Source_data[15] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[15]
+Avalon_ST_Source_data[16] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[16]
+Avalon_ST_Source_data[17] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[17]
+Avalon_ST_Source_data[18] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[18]
+Avalon_ST_Source_data[19] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[19]
+Avalon_ST_Source_data[20] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[20]
+Avalon_ST_Source_data[21] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[21]
+Avalon_ST_Source_data[22] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[22]
+Avalon_ST_Source_data[23] <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_data[23]
+Avalon_ST_Source_endofpacket <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_endofpacket
+Avalon_ST_Source_ready => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_ready
+Avalon_ST_Source_startofpacket <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_startofpacket
+Avalon_ST_Source_valid <= Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Avalon_ST_Source_valid
+Clock => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.Clock
+aclr => Gray_Processing_GN:Gray_Processing_GN_0:inst_Gray_Processing_GN_0.aclr
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0
+Avalon_ST_Source_valid <= alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_valid_0.output
+Avalon_ST_Source_data[0] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[0]
+Avalon_ST_Source_data[1] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[1]
+Avalon_ST_Source_data[2] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[2]
+Avalon_ST_Source_data[3] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[3]
+Avalon_ST_Source_data[4] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[4]
+Avalon_ST_Source_data[5] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[5]
+Avalon_ST_Source_data[6] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[6]
+Avalon_ST_Source_data[7] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[7]
+Avalon_ST_Source_data[8] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[8]
+Avalon_ST_Source_data[9] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[9]
+Avalon_ST_Source_data[10] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[10]
+Avalon_ST_Source_data[11] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[11]
+Avalon_ST_Source_data[12] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[12]
+Avalon_ST_Source_data[13] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[13]
+Avalon_ST_Source_data[14] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[14]
+Avalon_ST_Source_data[15] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[15]
+Avalon_ST_Source_data[16] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[16]
+Avalon_ST_Source_data[17] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[17]
+Avalon_ST_Source_data[18] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[18]
+Avalon_ST_Source_data[19] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[19]
+Avalon_ST_Source_data[20] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[20]
+Avalon_ST_Source_data[21] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[21]
+Avalon_ST_Source_data[22] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[22]
+Avalon_ST_Source_data[23] <= alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0.output[23]
+Avalon_ST_Source_startofpacket <= alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_startofpacket_0.output
+Avalon_ST_Sink_valid => alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_valid_0.input
+Clock => alt_dspbuilder_clock_GNF343OQUJ:clock_0.clock
+aclr => alt_dspbuilder_clock_GNF343OQUJ:clock_0.aclr_n
+Avalon_ST_Sink_endofpacket => alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_endofpacket_0.input
+Avalon_ST_Sink_ready <= alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_ready_0.output
+Avalon_ST_Source_endofpacket <= alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_endofpacket_0.output
+Avalon_ST_Sink_data[0] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[0]
+Avalon_ST_Sink_data[1] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[1]
+Avalon_ST_Sink_data[2] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[2]
+Avalon_ST_Sink_data[3] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[3]
+Avalon_ST_Sink_data[4] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[4]
+Avalon_ST_Sink_data[5] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[5]
+Avalon_ST_Sink_data[6] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[6]
+Avalon_ST_Sink_data[7] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[7]
+Avalon_ST_Sink_data[8] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[8]
+Avalon_ST_Sink_data[9] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[9]
+Avalon_ST_Sink_data[10] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[10]
+Avalon_ST_Sink_data[11] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[11]
+Avalon_ST_Sink_data[12] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[12]
+Avalon_ST_Sink_data[13] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[13]
+Avalon_ST_Sink_data[14] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[14]
+Avalon_ST_Sink_data[15] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[15]
+Avalon_ST_Sink_data[16] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[16]
+Avalon_ST_Sink_data[17] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[17]
+Avalon_ST_Sink_data[18] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[18]
+Avalon_ST_Sink_data[19] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[19]
+Avalon_ST_Sink_data[20] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[20]
+Avalon_ST_Sink_data[21] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[21]
+Avalon_ST_Sink_data[22] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[22]
+Avalon_ST_Sink_data[23] => alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0.input[23]
+Avalon_ST_Source_ready => alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_ready_0.input
+Avalon_ST_Sink_startofpacket => alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_startofpacket_0.input
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_clock_GNF343OQUJ:clock_0
+aclr => ~NO_FANOUT~
+aclr_n => aclr_out.DATAIN
+aclr_out <= aclr_n.DB_MAX_OUTPUT_PORT_TYPE
+clock => clock_out.DATAIN
+clock_out <= clock.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_sink_data_0
+input[0] => output[0].DATAIN
+input[1] => output[1].DATAIN
+input[2] => output[2].DATAIN
+input[3] => output[3].DATAIN
+input[4] => output[4].DATAIN
+input[5] => output[5].DATAIN
+input[6] => output[6].DATAIN
+input[7] => output[7].DATAIN
+input[8] => output[8].DATAIN
+input[9] => output[9].DATAIN
+input[10] => output[10].DATAIN
+input[11] => output[11].DATAIN
+input[12] => output[12].DATAIN
+input[13] => output[13].DATAIN
+input[14] => output[14].DATAIN
+input[15] => output[15].DATAIN
+input[16] => output[16].DATAIN
+input[17] => output[17].DATAIN
+input[18] => output[18].DATAIN
+input[19] => output[19].DATAIN
+input[20] => output[20].DATAIN
+input[21] => output[21].DATAIN
+input[22] => output[22].DATAIN
+input[23] => output[23].DATAIN
+output[0] <= input[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= input[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= input[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= input[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= input[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= input[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= input[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= input[7].DB_MAX_OUTPUT_PORT_TYPE
+output[8] <= input[8].DB_MAX_OUTPUT_PORT_TYPE
+output[9] <= input[9].DB_MAX_OUTPUT_PORT_TYPE
+output[10] <= input[10].DB_MAX_OUTPUT_PORT_TYPE
+output[11] <= input[11].DB_MAX_OUTPUT_PORT_TYPE
+output[12] <= input[12].DB_MAX_OUTPUT_PORT_TYPE
+output[13] <= input[13].DB_MAX_OUTPUT_PORT_TYPE
+output[14] <= input[14].DB_MAX_OUTPUT_PORT_TYPE
+output[15] <= input[15].DB_MAX_OUTPUT_PORT_TYPE
+output[16] <= input[16].DB_MAX_OUTPUT_PORT_TYPE
+output[17] <= input[17].DB_MAX_OUTPUT_PORT_TYPE
+output[18] <= input[18].DB_MAX_OUTPUT_PORT_TYPE
+output[19] <= input[19].DB_MAX_OUTPUT_PORT_TYPE
+output[20] <= input[20].DB_MAX_OUTPUT_PORT_TYPE
+output[21] <= input[21].DB_MAX_OUTPUT_PORT_TYPE
+output[22] <= input[22].DB_MAX_OUTPUT_PORT_TYPE
+output[23] <= input[23].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_endofpacket_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0
+eop => alt_dspbuilder_port_GN37ALZBS4:eop_0.input
+Clock => alt_dspbuilder_clock_GNQFU4PUDH:clock_0.clock
+aclr => alt_dspbuilder_clock_GNQFU4PUDH:clock_0.aclr
+data_in[0] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[0]
+data_in[1] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[1]
+data_in[2] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[2]
+data_in[3] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[3]
+data_in[4] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[4]
+data_in[5] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[5]
+data_in[6] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[6]
+data_in[7] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[7]
+data_in[8] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[8]
+data_in[9] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[9]
+data_in[10] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[10]
+data_in[11] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[11]
+data_in[12] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[12]
+data_in[13] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[13]
+data_in[14] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[14]
+data_in[15] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[15]
+data_in[16] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[16]
+data_in[17] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[17]
+data_in[18] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[18]
+data_in[19] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[19]
+data_in[20] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[20]
+data_in[21] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[21]
+data_in[22] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[22]
+data_in[23] => alt_dspbuilder_port_GNOC3SGKQJ:data_in_0.input[23]
+data_out[0] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[0]
+data_out[1] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[1]
+data_out[2] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[2]
+data_out[3] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[3]
+data_out[4] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[4]
+data_out[5] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[5]
+data_out[6] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[6]
+data_out[7] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[7]
+data_out[8] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[8]
+data_out[9] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[9]
+data_out[10] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[10]
+data_out[11] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[11]
+data_out[12] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[12]
+data_out[13] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[13]
+data_out[14] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[14]
+data_out[15] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[15]
+data_out[16] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[16]
+data_out[17] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[17]
+data_out[18] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[18]
+data_out[19] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[19]
+data_out[20] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[20]
+data_out[21] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[21]
+data_out[22] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[22]
+data_out[23] <= alt_dspbuilder_port_GNOC3SGKQJ:data_out_0.output[23]
+sop => alt_dspbuilder_port_GN37ALZBS4:sop_0.input
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_clock_GNQFU4PUDH:clock_0
+aclr => aclr_out.DATAIN
+aclr_n => ~NO_FANOUT~
+aclr_out <= aclr.DB_MAX_OUTPUT_PORT_TYPE
+clock => clock_out.DATAIN
+clock_out <= clock.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNKXX25S2S:bus_conversion1
+input[0] => alt_dspbuilder_SBF:Outputi.xin[0]
+input[1] => alt_dspbuilder_SBF:Outputi.xin[1]
+input[2] => alt_dspbuilder_SBF:Outputi.xin[2]
+input[3] => alt_dspbuilder_SBF:Outputi.xin[3]
+input[4] => alt_dspbuilder_SBF:Outputi.xin[4]
+input[5] => alt_dspbuilder_SBF:Outputi.xin[5]
+input[6] => alt_dspbuilder_SBF:Outputi.xin[6]
+input[7] => alt_dspbuilder_SBF:Outputi.xin[7]
+input[8] => alt_dspbuilder_SBF:Outputi.xin[8]
+input[9] => alt_dspbuilder_SBF:Outputi.xin[9]
+input[10] => alt_dspbuilder_SBF:Outputi.xin[10]
+input[11] => alt_dspbuilder_SBF:Outputi.xin[11]
+input[12] => alt_dspbuilder_SBF:Outputi.xin[12]
+input[13] => alt_dspbuilder_SBF:Outputi.xin[13]
+input[14] => alt_dspbuilder_SBF:Outputi.xin[14]
+input[15] => alt_dspbuilder_SBF:Outputi.xin[15]
+input[16] => alt_dspbuilder_SBF:Outputi.xin[16]
+input[17] => alt_dspbuilder_SBF:Outputi.xin[17]
+input[18] => alt_dspbuilder_SBF:Outputi.xin[18]
+input[19] => alt_dspbuilder_SBF:Outputi.xin[19]
+input[20] => alt_dspbuilder_SBF:Outputi.xin[20]
+input[21] => alt_dspbuilder_SBF:Outputi.xin[21]
+input[22] => alt_dspbuilder_SBF:Outputi.xin[22]
+input[23] => alt_dspbuilder_SBF:Outputi.xin[23]
+output[0] <= alt_dspbuilder_SBF:Outputi.yout[0]
+output[1] <= alt_dspbuilder_SBF:Outputi.yout[1]
+output[2] <= alt_dspbuilder_SBF:Outputi.yout[2]
+output[3] <= alt_dspbuilder_SBF:Outputi.yout[3]
+output[4] <= alt_dspbuilder_SBF:Outputi.yout[4]
+output[5] <= alt_dspbuilder_SBF:Outputi.yout[5]
+output[6] <= alt_dspbuilder_SBF:Outputi.yout[6]
+output[7] <= alt_dspbuilder_SBF:Outputi.yout[7]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNKXX25S2S:bus_conversion1|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+xin[2] => alt_dspbuilder_sAltrPropagate:u0.d[2]
+xin[3] => alt_dspbuilder_sAltrPropagate:u0.d[3]
+xin[4] => alt_dspbuilder_sAltrPropagate:u0.d[4]
+xin[5] => alt_dspbuilder_sAltrPropagate:u0.d[5]
+xin[6] => alt_dspbuilder_sAltrPropagate:u0.d[6]
+xin[7] => alt_dspbuilder_sAltrPropagate:u0.d[7]
+xin[8] => alt_dspbuilder_sAltrPropagate:u0.d[8]
+xin[9] => alt_dspbuilder_sAltrPropagate:u0.d[9]
+xin[10] => alt_dspbuilder_sAltrPropagate:u0.d[10]
+xin[11] => alt_dspbuilder_sAltrPropagate:u0.d[11]
+xin[12] => alt_dspbuilder_sAltrPropagate:u0.d[12]
+xin[13] => alt_dspbuilder_sAltrPropagate:u0.d[13]
+xin[14] => alt_dspbuilder_sAltrPropagate:u0.d[14]
+xin[15] => alt_dspbuilder_sAltrPropagate:u0.d[15]
+xin[16] => alt_dspbuilder_sAltrPropagate:u0.d[16]
+xin[17] => alt_dspbuilder_sAltrPropagate:u0.d[17]
+xin[18] => alt_dspbuilder_sAltrPropagate:u0.d[18]
+xin[19] => alt_dspbuilder_sAltrPropagate:u0.d[19]
+xin[20] => alt_dspbuilder_sAltrPropagate:u0.d[20]
+xin[21] => alt_dspbuilder_sAltrPropagate:u0.d[21]
+xin[22] => alt_dspbuilder_sAltrPropagate:u0.d[22]
+xin[23] => alt_dspbuilder_sAltrPropagate:u0.d[23]
+xin[24] => alt_dspbuilder_sAltrPropagate:u0.d[24]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[0]
+yout[1] <= alt_dspbuilder_sAltrPropagate:u0.r[1]
+yout[2] <= alt_dspbuilder_sAltrPropagate:u0.r[2]
+yout[3] <= alt_dspbuilder_sAltrPropagate:u0.r[3]
+yout[4] <= alt_dspbuilder_sAltrPropagate:u0.r[4]
+yout[5] <= alt_dspbuilder_sAltrPropagate:u0.r[5]
+yout[6] <= alt_dspbuilder_sAltrPropagate:u0.r[6]
+yout[7] <= alt_dspbuilder_sAltrPropagate:u0.r[7]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNKXX25S2S:bus_conversion1|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+d[2] => r[2].DATAIN
+d[3] => r[3].DATAIN
+d[4] => r[4].DATAIN
+d[5] => r[5].DATAIN
+d[6] => r[6].DATAIN
+d[7] => r[7].DATAIN
+d[8] => r[8].DATAIN
+d[9] => r[9].DATAIN
+d[10] => r[10].DATAIN
+d[11] => r[11].DATAIN
+d[12] => r[12].DATAIN
+d[13] => r[13].DATAIN
+d[14] => r[14].DATAIN
+d[15] => r[15].DATAIN
+d[16] => r[16].DATAIN
+d[17] => r[17].DATAIN
+d[18] => r[18].DATAIN
+d[19] => r[19].DATAIN
+d[20] => r[20].DATAIN
+d[21] => r[21].DATAIN
+d[22] => r[22].DATAIN
+d[23] => r[23].DATAIN
+d[24] => r[24].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+r[2] <= d[2].DB_MAX_OUTPUT_PORT_TYPE
+r[3] <= d[3].DB_MAX_OUTPUT_PORT_TYPE
+r[4] <= d[4].DB_MAX_OUTPUT_PORT_TYPE
+r[5] <= d[5].DB_MAX_OUTPUT_PORT_TYPE
+r[6] <= d[6].DB_MAX_OUTPUT_PORT_TYPE
+r[7] <= d[7].DB_MAX_OUTPUT_PORT_TYPE
+r[8] <= d[8].DB_MAX_OUTPUT_PORT_TYPE
+r[9] <= d[9].DB_MAX_OUTPUT_PORT_TYPE
+r[10] <= d[10].DB_MAX_OUTPUT_PORT_TYPE
+r[11] <= d[11].DB_MAX_OUTPUT_PORT_TYPE
+r[12] <= d[12].DB_MAX_OUTPUT_PORT_TYPE
+r[13] <= d[13].DB_MAX_OUTPUT_PORT_TYPE
+r[14] <= d[14].DB_MAX_OUTPUT_PORT_TYPE
+r[15] <= d[15].DB_MAX_OUTPUT_PORT_TYPE
+r[16] <= d[16].DB_MAX_OUTPUT_PORT_TYPE
+r[17] <= d[17].DB_MAX_OUTPUT_PORT_TYPE
+r[18] <= d[18].DB_MAX_OUTPUT_PORT_TYPE
+r[19] <= d[19].DB_MAX_OUTPUT_PORT_TYPE
+r[20] <= d[20].DB_MAX_OUTPUT_PORT_TYPE
+r[21] <= d[21].DB_MAX_OUTPUT_PORT_TYPE
+r[22] <= d[22].DB_MAX_OUTPUT_PORT_TYPE
+r[23] <= d[23].DB_MAX_OUTPUT_PORT_TYPE
+r[24] <= d[24].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN6OMCQQS7:bus_conversion2
+input[0] => alt_dspbuilder_SBF:Outputi.xin[0]
+input[1] => alt_dspbuilder_SBF:Outputi.xin[1]
+input[2] => alt_dspbuilder_SBF:Outputi.xin[2]
+input[3] => alt_dspbuilder_SBF:Outputi.xin[3]
+input[4] => alt_dspbuilder_SBF:Outputi.xin[4]
+input[5] => alt_dspbuilder_SBF:Outputi.xin[5]
+input[6] => alt_dspbuilder_SBF:Outputi.xin[6]
+input[7] => alt_dspbuilder_SBF:Outputi.xin[7]
+input[8] => alt_dspbuilder_SBF:Outputi.xin[8]
+input[9] => alt_dspbuilder_SBF:Outputi.xin[9]
+input[10] => alt_dspbuilder_SBF:Outputi.xin[10]
+input[11] => alt_dspbuilder_SBF:Outputi.xin[11]
+input[12] => alt_dspbuilder_SBF:Outputi.xin[12]
+input[13] => alt_dspbuilder_SBF:Outputi.xin[13]
+input[14] => alt_dspbuilder_SBF:Outputi.xin[14]
+input[15] => alt_dspbuilder_SBF:Outputi.xin[15]
+input[16] => alt_dspbuilder_SBF:Outputi.xin[16]
+input[17] => alt_dspbuilder_SBF:Outputi.xin[17]
+input[18] => alt_dspbuilder_SBF:Outputi.xin[18]
+input[19] => alt_dspbuilder_SBF:Outputi.xin[19]
+input[20] => alt_dspbuilder_SBF:Outputi.xin[20]
+input[21] => alt_dspbuilder_SBF:Outputi.xin[21]
+input[22] => alt_dspbuilder_SBF:Outputi.xin[22]
+input[23] => alt_dspbuilder_SBF:Outputi.xin[23]
+output[0] <= alt_dspbuilder_SBF:Outputi.yout[0]
+output[1] <= alt_dspbuilder_SBF:Outputi.yout[1]
+output[2] <= alt_dspbuilder_SBF:Outputi.yout[2]
+output[3] <= alt_dspbuilder_SBF:Outputi.yout[3]
+output[4] <= alt_dspbuilder_SBF:Outputi.yout[4]
+output[5] <= alt_dspbuilder_SBF:Outputi.yout[5]
+output[6] <= alt_dspbuilder_SBF:Outputi.yout[6]
+output[7] <= alt_dspbuilder_SBF:Outputi.yout[7]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN6OMCQQS7:bus_conversion2|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+xin[2] => alt_dspbuilder_sAltrPropagate:u0.d[2]
+xin[3] => alt_dspbuilder_sAltrPropagate:u0.d[3]
+xin[4] => alt_dspbuilder_sAltrPropagate:u0.d[4]
+xin[5] => alt_dspbuilder_sAltrPropagate:u0.d[5]
+xin[6] => alt_dspbuilder_sAltrPropagate:u0.d[6]
+xin[7] => alt_dspbuilder_sAltrPropagate:u0.d[7]
+xin[8] => alt_dspbuilder_sAltrPropagate:u0.d[8]
+xin[9] => alt_dspbuilder_sAltrPropagate:u0.d[9]
+xin[10] => alt_dspbuilder_sAltrPropagate:u0.d[10]
+xin[11] => alt_dspbuilder_sAltrPropagate:u0.d[11]
+xin[12] => alt_dspbuilder_sAltrPropagate:u0.d[12]
+xin[13] => alt_dspbuilder_sAltrPropagate:u0.d[13]
+xin[14] => alt_dspbuilder_sAltrPropagate:u0.d[14]
+xin[15] => alt_dspbuilder_sAltrPropagate:u0.d[15]
+xin[16] => alt_dspbuilder_sAltrPropagate:u0.d[16]
+xin[17] => alt_dspbuilder_sAltrPropagate:u0.d[17]
+xin[18] => alt_dspbuilder_sAltrPropagate:u0.d[18]
+xin[19] => alt_dspbuilder_sAltrPropagate:u0.d[19]
+xin[20] => alt_dspbuilder_sAltrPropagate:u0.d[20]
+xin[21] => alt_dspbuilder_sAltrPropagate:u0.d[21]
+xin[22] => alt_dspbuilder_sAltrPropagate:u0.d[22]
+xin[23] => alt_dspbuilder_sAltrPropagate:u0.d[23]
+xin[24] => alt_dspbuilder_sAltrPropagate:u0.d[24]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[8]
+yout[1] <= alt_dspbuilder_sAltrPropagate:u0.r[9]
+yout[2] <= alt_dspbuilder_sAltrPropagate:u0.r[10]
+yout[3] <= alt_dspbuilder_sAltrPropagate:u0.r[11]
+yout[4] <= alt_dspbuilder_sAltrPropagate:u0.r[12]
+yout[5] <= alt_dspbuilder_sAltrPropagate:u0.r[13]
+yout[6] <= alt_dspbuilder_sAltrPropagate:u0.r[14]
+yout[7] <= alt_dspbuilder_sAltrPropagate:u0.r[15]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN6OMCQQS7:bus_conversion2|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+d[2] => r[2].DATAIN
+d[3] => r[3].DATAIN
+d[4] => r[4].DATAIN
+d[5] => r[5].DATAIN
+d[6] => r[6].DATAIN
+d[7] => r[7].DATAIN
+d[8] => r[8].DATAIN
+d[9] => r[9].DATAIN
+d[10] => r[10].DATAIN
+d[11] => r[11].DATAIN
+d[12] => r[12].DATAIN
+d[13] => r[13].DATAIN
+d[14] => r[14].DATAIN
+d[15] => r[15].DATAIN
+d[16] => r[16].DATAIN
+d[17] => r[17].DATAIN
+d[18] => r[18].DATAIN
+d[19] => r[19].DATAIN
+d[20] => r[20].DATAIN
+d[21] => r[21].DATAIN
+d[22] => r[22].DATAIN
+d[23] => r[23].DATAIN
+d[24] => r[24].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+r[2] <= d[2].DB_MAX_OUTPUT_PORT_TYPE
+r[3] <= d[3].DB_MAX_OUTPUT_PORT_TYPE
+r[4] <= d[4].DB_MAX_OUTPUT_PORT_TYPE
+r[5] <= d[5].DB_MAX_OUTPUT_PORT_TYPE
+r[6] <= d[6].DB_MAX_OUTPUT_PORT_TYPE
+r[7] <= d[7].DB_MAX_OUTPUT_PORT_TYPE
+r[8] <= d[8].DB_MAX_OUTPUT_PORT_TYPE
+r[9] <= d[9].DB_MAX_OUTPUT_PORT_TYPE
+r[10] <= d[10].DB_MAX_OUTPUT_PORT_TYPE
+r[11] <= d[11].DB_MAX_OUTPUT_PORT_TYPE
+r[12] <= d[12].DB_MAX_OUTPUT_PORT_TYPE
+r[13] <= d[13].DB_MAX_OUTPUT_PORT_TYPE
+r[14] <= d[14].DB_MAX_OUTPUT_PORT_TYPE
+r[15] <= d[15].DB_MAX_OUTPUT_PORT_TYPE
+r[16] <= d[16].DB_MAX_OUTPUT_PORT_TYPE
+r[17] <= d[17].DB_MAX_OUTPUT_PORT_TYPE
+r[18] <= d[18].DB_MAX_OUTPUT_PORT_TYPE
+r[19] <= d[19].DB_MAX_OUTPUT_PORT_TYPE
+r[20] <= d[20].DB_MAX_OUTPUT_PORT_TYPE
+r[21] <= d[21].DB_MAX_OUTPUT_PORT_TYPE
+r[22] <= d[22].DB_MAX_OUTPUT_PORT_TYPE
+r[23] <= d[23].DB_MAX_OUTPUT_PORT_TYPE
+r[24] <= d[24].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN7IAAYCSZ:bus_conversion3
+input[0] => alt_dspbuilder_SBF:Outputi.xin[0]
+input[1] => alt_dspbuilder_SBF:Outputi.xin[1]
+input[2] => alt_dspbuilder_SBF:Outputi.xin[2]
+input[3] => alt_dspbuilder_SBF:Outputi.xin[3]
+input[4] => alt_dspbuilder_SBF:Outputi.xin[4]
+input[5] => alt_dspbuilder_SBF:Outputi.xin[5]
+input[6] => alt_dspbuilder_SBF:Outputi.xin[6]
+input[7] => alt_dspbuilder_SBF:Outputi.xin[7]
+input[8] => alt_dspbuilder_SBF:Outputi.xin[8]
+input[9] => alt_dspbuilder_SBF:Outputi.xin[9]
+input[10] => alt_dspbuilder_SBF:Outputi.xin[10]
+input[11] => alt_dspbuilder_SBF:Outputi.xin[11]
+input[12] => alt_dspbuilder_SBF:Outputi.xin[12]
+input[13] => alt_dspbuilder_SBF:Outputi.xin[13]
+input[14] => alt_dspbuilder_SBF:Outputi.xin[14]
+input[15] => alt_dspbuilder_SBF:Outputi.xin[15]
+input[16] => alt_dspbuilder_SBF:Outputi.xin[16]
+input[17] => alt_dspbuilder_SBF:Outputi.xin[17]
+input[18] => alt_dspbuilder_SBF:Outputi.xin[18]
+input[19] => alt_dspbuilder_SBF:Outputi.xin[19]
+input[20] => alt_dspbuilder_SBF:Outputi.xin[20]
+input[21] => alt_dspbuilder_SBF:Outputi.xin[21]
+input[22] => alt_dspbuilder_SBF:Outputi.xin[22]
+input[23] => alt_dspbuilder_SBF:Outputi.xin[23]
+output[0] <= alt_dspbuilder_SBF:Outputi.yout[0]
+output[1] <= alt_dspbuilder_SBF:Outputi.yout[1]
+output[2] <= alt_dspbuilder_SBF:Outputi.yout[2]
+output[3] <= alt_dspbuilder_SBF:Outputi.yout[3]
+output[4] <= alt_dspbuilder_SBF:Outputi.yout[4]
+output[5] <= alt_dspbuilder_SBF:Outputi.yout[5]
+output[6] <= alt_dspbuilder_SBF:Outputi.yout[6]
+output[7] <= alt_dspbuilder_SBF:Outputi.yout[7]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN7IAAYCSZ:bus_conversion3|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+xin[2] => alt_dspbuilder_sAltrPropagate:u0.d[2]
+xin[3] => alt_dspbuilder_sAltrPropagate:u0.d[3]
+xin[4] => alt_dspbuilder_sAltrPropagate:u0.d[4]
+xin[5] => alt_dspbuilder_sAltrPropagate:u0.d[5]
+xin[6] => alt_dspbuilder_sAltrPropagate:u0.d[6]
+xin[7] => alt_dspbuilder_sAltrPropagate:u0.d[7]
+xin[8] => alt_dspbuilder_sAltrPropagate:u0.d[8]
+xin[9] => alt_dspbuilder_sAltrPropagate:u0.d[9]
+xin[10] => alt_dspbuilder_sAltrPropagate:u0.d[10]
+xin[11] => alt_dspbuilder_sAltrPropagate:u0.d[11]
+xin[12] => alt_dspbuilder_sAltrPropagate:u0.d[12]
+xin[13] => alt_dspbuilder_sAltrPropagate:u0.d[13]
+xin[14] => alt_dspbuilder_sAltrPropagate:u0.d[14]
+xin[15] => alt_dspbuilder_sAltrPropagate:u0.d[15]
+xin[16] => alt_dspbuilder_sAltrPropagate:u0.d[16]
+xin[17] => alt_dspbuilder_sAltrPropagate:u0.d[17]
+xin[18] => alt_dspbuilder_sAltrPropagate:u0.d[18]
+xin[19] => alt_dspbuilder_sAltrPropagate:u0.d[19]
+xin[20] => alt_dspbuilder_sAltrPropagate:u0.d[20]
+xin[21] => alt_dspbuilder_sAltrPropagate:u0.d[21]
+xin[22] => alt_dspbuilder_sAltrPropagate:u0.d[22]
+xin[23] => alt_dspbuilder_sAltrPropagate:u0.d[23]
+xin[24] => alt_dspbuilder_sAltrPropagate:u0.d[24]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[16]
+yout[1] <= alt_dspbuilder_sAltrPropagate:u0.r[17]
+yout[2] <= alt_dspbuilder_sAltrPropagate:u0.r[18]
+yout[3] <= alt_dspbuilder_sAltrPropagate:u0.r[19]
+yout[4] <= alt_dspbuilder_sAltrPropagate:u0.r[20]
+yout[5] <= alt_dspbuilder_sAltrPropagate:u0.r[21]
+yout[6] <= alt_dspbuilder_sAltrPropagate:u0.r[22]
+yout[7] <= alt_dspbuilder_sAltrPropagate:u0.r[23]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN7IAAYCSZ:bus_conversion3|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+d[2] => r[2].DATAIN
+d[3] => r[3].DATAIN
+d[4] => r[4].DATAIN
+d[5] => r[5].DATAIN
+d[6] => r[6].DATAIN
+d[7] => r[7].DATAIN
+d[8] => r[8].DATAIN
+d[9] => r[9].DATAIN
+d[10] => r[10].DATAIN
+d[11] => r[11].DATAIN
+d[12] => r[12].DATAIN
+d[13] => r[13].DATAIN
+d[14] => r[14].DATAIN
+d[15] => r[15].DATAIN
+d[16] => r[16].DATAIN
+d[17] => r[17].DATAIN
+d[18] => r[18].DATAIN
+d[19] => r[19].DATAIN
+d[20] => r[20].DATAIN
+d[21] => r[21].DATAIN
+d[22] => r[22].DATAIN
+d[23] => r[23].DATAIN
+d[24] => r[24].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+r[2] <= d[2].DB_MAX_OUTPUT_PORT_TYPE
+r[3] <= d[3].DB_MAX_OUTPUT_PORT_TYPE
+r[4] <= d[4].DB_MAX_OUTPUT_PORT_TYPE
+r[5] <= d[5].DB_MAX_OUTPUT_PORT_TYPE
+r[6] <= d[6].DB_MAX_OUTPUT_PORT_TYPE
+r[7] <= d[7].DB_MAX_OUTPUT_PORT_TYPE
+r[8] <= d[8].DB_MAX_OUTPUT_PORT_TYPE
+r[9] <= d[9].DB_MAX_OUTPUT_PORT_TYPE
+r[10] <= d[10].DB_MAX_OUTPUT_PORT_TYPE
+r[11] <= d[11].DB_MAX_OUTPUT_PORT_TYPE
+r[12] <= d[12].DB_MAX_OUTPUT_PORT_TYPE
+r[13] <= d[13].DB_MAX_OUTPUT_PORT_TYPE
+r[14] <= d[14].DB_MAX_OUTPUT_PORT_TYPE
+r[15] <= d[15].DB_MAX_OUTPUT_PORT_TYPE
+r[16] <= d[16].DB_MAX_OUTPUT_PORT_TYPE
+r[17] <= d[17].DB_MAX_OUTPUT_PORT_TYPE
+r[18] <= d[18].DB_MAX_OUTPUT_PORT_TYPE
+r[19] <= d[19].DB_MAX_OUTPUT_PORT_TYPE
+r[20] <= d[20].DB_MAX_OUTPUT_PORT_TYPE
+r[21] <= d[21].DB_MAX_OUTPUT_PORT_TYPE
+r[22] <= d[22].DB_MAX_OUTPUT_PORT_TYPE
+r[23] <= d[23].DB_MAX_OUTPUT_PORT_TYPE
+r[24] <= d[24].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_logical_bit_op_GNA5ZFEL7V:logical_bit_operator
+result <= alt_dspbuilder_SBitLogical:LogicalBitOperatori.result
+data0 => alt_dspbuilder_SBitLogical:LogicalBitOperatori.dataa[0]
+data1 => alt_dspbuilder_SBitLogical:LogicalBitOperatori.dataa[1]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_logical_bit_op_GNA5ZFEL7V:logical_bit_operator|alt_dspbuilder_SBitLogical:LogicalBitOperatori
+dataa[0] => Equal0.IN0
+dataa[1] => Equal0.IN1
+result <= alt_dspbuilder_sAltrBitPropagate:u0.r
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_logical_bit_op_GNA5ZFEL7V:logical_bit_operator|alt_dspbuilder_SBitLogical:LogicalBitOperatori|alt_dspbuilder_sAltrBitPropagate:u0
+d => r.DATAIN
+r <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_barrelshifter_GNV5DVAGHT:barrel_shifter
+a[0] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[0]
+a[1] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[1]
+a[2] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[2]
+a[3] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[3]
+a[4] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[4]
+a[5] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[5]
+a[6] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[6]
+a[7] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[7]
+a[8] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[8]
+a[9] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[9]
+a[10] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[10]
+a[11] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[11]
+a[12] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[12]
+a[13] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[13]
+a[14] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[14]
+a[15] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[15]
+a[16] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[16]
+a[17] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.xin[17]
+aclr => clear.IN0
+clock => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.clock
+direction => ~NO_FANOUT~
+distance[0] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.distance[0]
+distance[1] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.distance[1]
+distance[2] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.distance[2]
+distance[3] => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.distance[3]
+ena => alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.ena
+r[0] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[0]
+r[1] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[1]
+r[2] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[2]
+r[3] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[3]
+r[4] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[4]
+r[5] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[5]
+r[6] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[6]
+r[7] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[7]
+r[8] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[8]
+r[9] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[9]
+r[10] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[10]
+r[11] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[11]
+r[12] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[12]
+r[13] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[13]
+r[14] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[14]
+r[15] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[15]
+r[16] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[16]
+r[17] <= alt_dspbuilder_BarrelShiftAltr:BarrelShifteri.yout[17]
+user_aclr => clear.IN1
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_barrelshifter_GNV5DVAGHT:barrel_shifter|alt_dspbuilder_BarrelShiftAltr:BarrelShifteri
+xin[0] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[0]
+xin[1] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[1]
+xin[2] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[2]
+xin[3] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[3]
+xin[4] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[4]
+xin[5] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[5]
+xin[6] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[6]
+xin[7] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[7]
+xin[8] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[8]
+xin[9] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[9]
+xin[10] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[10]
+xin[11] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[11]
+xin[12] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[12]
+xin[13] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[13]
+xin[14] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[14]
+xin[15] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[15]
+xin[16] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[16]
+xin[17] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[17]
+xin[18] => LPM_CLSHIFT:gnopipeline:gndc:U0.DATA[18]
+distance[0] => LPM_CLSHIFT:gnopipeline:gndc:U0.DISTANCE[0]
+distance[0] => Equal0.IN4
+distance[1] => LPM_CLSHIFT:gnopipeline:gndc:U0.DISTANCE[1]
+distance[1] => Equal0.IN3
+distance[2] => LPM_CLSHIFT:gnopipeline:gndc:U0.DISTANCE[2]
+distance[2] => Equal0.IN2
+distance[3] => LPM_CLSHIFT:gnopipeline:gndc:U0.DISTANCE[3]
+distance[3] => Equal0.IN1
+distance[4] => LPM_CLSHIFT:gnopipeline:gndc:U0.DISTANCE[4]
+distance[4] => Equal0.IN0
+sclr => ~NO_FANOUT~
+ena => ~NO_FANOUT~
+clock => ~NO_FANOUT~
+aclr => ~NO_FANOUT~
+direction => ~NO_FANOUT~
+yout[0] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[0]
+yout[1] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[1]
+yout[2] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[2]
+yout[3] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[3]
+yout[4] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[4]
+yout[5] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[5]
+yout[6] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[6]
+yout[7] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[7]
+yout[8] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[8]
+yout[9] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[9]
+yout[10] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[10]
+yout[11] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[11]
+yout[12] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[12]
+yout[13] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[13]
+yout[14] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[14]
+yout[15] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[15]
+yout[16] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[16]
+yout[17] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[17]
+yout[18] <= LPM_CLSHIFT:gnopipeline:gndc:U0.RESULT[18]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_barrelshifter_GNV5DVAGHT:barrel_shifter|alt_dspbuilder_BarrelShiftAltr:BarrelShifteri|LPM_CLSHIFT:\gnopipeline:gndc:U0
+aclr => ~NO_FANOUT~
+clken => ~NO_FANOUT~
+clock => ~NO_FANOUT~
+data[0] => lpm_clshift_juc:auto_generated.data[0]
+data[1] => lpm_clshift_juc:auto_generated.data[1]
+data[2] => lpm_clshift_juc:auto_generated.data[2]
+data[3] => lpm_clshift_juc:auto_generated.data[3]
+data[4] => lpm_clshift_juc:auto_generated.data[4]
+data[5] => lpm_clshift_juc:auto_generated.data[5]
+data[6] => lpm_clshift_juc:auto_generated.data[6]
+data[7] => lpm_clshift_juc:auto_generated.data[7]
+data[8] => lpm_clshift_juc:auto_generated.data[8]
+data[9] => lpm_clshift_juc:auto_generated.data[9]
+data[10] => lpm_clshift_juc:auto_generated.data[10]
+data[11] => lpm_clshift_juc:auto_generated.data[11]
+data[12] => lpm_clshift_juc:auto_generated.data[12]
+data[13] => lpm_clshift_juc:auto_generated.data[13]
+data[14] => lpm_clshift_juc:auto_generated.data[14]
+data[15] => lpm_clshift_juc:auto_generated.data[15]
+data[16] => lpm_clshift_juc:auto_generated.data[16]
+data[17] => lpm_clshift_juc:auto_generated.data[17]
+data[18] => lpm_clshift_juc:auto_generated.data[18]
+direction => lpm_clshift_juc:auto_generated.direction
+distance[0] => lpm_clshift_juc:auto_generated.distance[0]
+distance[1] => lpm_clshift_juc:auto_generated.distance[1]
+distance[2] => lpm_clshift_juc:auto_generated.distance[2]
+distance[3] => lpm_clshift_juc:auto_generated.distance[3]
+distance[4] => lpm_clshift_juc:auto_generated.distance[4]
+overflow <= <GND>
+result[0] <= lpm_clshift_juc:auto_generated.result[0]
+result[1] <= lpm_clshift_juc:auto_generated.result[1]
+result[2] <= lpm_clshift_juc:auto_generated.result[2]
+result[3] <= lpm_clshift_juc:auto_generated.result[3]
+result[4] <= lpm_clshift_juc:auto_generated.result[4]
+result[5] <= lpm_clshift_juc:auto_generated.result[5]
+result[6] <= lpm_clshift_juc:auto_generated.result[6]
+result[7] <= lpm_clshift_juc:auto_generated.result[7]
+result[8] <= lpm_clshift_juc:auto_generated.result[8]
+result[9] <= lpm_clshift_juc:auto_generated.result[9]
+result[10] <= lpm_clshift_juc:auto_generated.result[10]
+result[11] <= lpm_clshift_juc:auto_generated.result[11]
+result[12] <= lpm_clshift_juc:auto_generated.result[12]
+result[13] <= lpm_clshift_juc:auto_generated.result[13]
+result[14] <= lpm_clshift_juc:auto_generated.result[14]
+result[15] <= lpm_clshift_juc:auto_generated.result[15]
+result[16] <= lpm_clshift_juc:auto_generated.result[16]
+result[17] <= lpm_clshift_juc:auto_generated.result[17]
+result[18] <= lpm_clshift_juc:auto_generated.result[18]
+underflow <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_barrelshifter_GNV5DVAGHT:barrel_shifter|alt_dspbuilder_BarrelShiftAltr:BarrelShifteri|LPM_CLSHIFT:\gnopipeline:gndc:U0|lpm_clshift_juc:auto_generated
+data[0] => _.IN1
+data[0] => sbit_w[19].IN1
+data[1] => _.IN1
+data[1] => _.IN1
+data[1] => sbit_w[20].IN1
+data[2] => _.IN1
+data[2] => _.IN1
+data[2] => sbit_w[21].IN1
+data[3] => _.IN1
+data[3] => _.IN1
+data[3] => sbit_w[22].IN1
+data[4] => _.IN1
+data[4] => _.IN1
+data[4] => sbit_w[23].IN1
+data[5] => _.IN1
+data[5] => _.IN1
+data[5] => sbit_w[24].IN1
+data[6] => _.IN1
+data[6] => _.IN1
+data[6] => sbit_w[25].IN1
+data[7] => _.IN1
+data[7] => _.IN1
+data[7] => sbit_w[26].IN1
+data[8] => _.IN1
+data[8] => _.IN1
+data[8] => sbit_w[27].IN1
+data[9] => _.IN1
+data[9] => _.IN1
+data[9] => sbit_w[28].IN1
+data[10] => _.IN1
+data[10] => _.IN1
+data[10] => sbit_w[29].IN1
+data[11] => _.IN1
+data[11] => _.IN1
+data[11] => sbit_w[30].IN1
+data[12] => _.IN1
+data[12] => _.IN1
+data[12] => sbit_w[31].IN1
+data[13] => _.IN1
+data[13] => _.IN1
+data[13] => sbit_w[32].IN1
+data[14] => _.IN1
+data[14] => _.IN1
+data[14] => sbit_w[33].IN1
+data[15] => _.IN1
+data[15] => _.IN1
+data[15] => sbit_w[34].IN1
+data[16] => _.IN1
+data[16] => _.IN1
+data[16] => sbit_w[35].IN1
+data[17] => _.IN1
+data[17] => _.IN1
+data[17] => sbit_w[36].IN1
+data[18] => _.IN1
+data[18] => sbit_w[37].IN1
+data[18] => _.IN1
+direction => _.IN0
+direction => _.IN1
+direction => _.IN0
+direction => _.IN1
+direction => _.IN0
+direction => _.IN1
+direction => _.IN0
+direction => _.IN1
+direction => _.IN0
+direction => _.IN1
+distance[0] => _.IN0
+distance[0] => _.IN0
+distance[0] => _.IN0
+distance[1] => _.IN0
+distance[1] => _.IN0
+distance[1] => _.IN0
+distance[2] => _.IN0
+distance[2] => _.IN0
+distance[2] => _.IN0
+distance[3] => _.IN0
+distance[3] => _.IN0
+distance[3] => _.IN0
+distance[4] => _.IN0
+distance[4] => _.IN0
+distance[4] => _.IN0
+result[0] <= sbit_w[95].DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= sbit_w[96].DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= sbit_w[97].DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= sbit_w[98].DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= sbit_w[99].DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= sbit_w[100].DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= sbit_w[101].DB_MAX_OUTPUT_PORT_TYPE
+result[7] <= sbit_w[102].DB_MAX_OUTPUT_PORT_TYPE
+result[8] <= sbit_w[103].DB_MAX_OUTPUT_PORT_TYPE
+result[9] <= sbit_w[104].DB_MAX_OUTPUT_PORT_TYPE
+result[10] <= sbit_w[105].DB_MAX_OUTPUT_PORT_TYPE
+result[11] <= sbit_w[106].DB_MAX_OUTPUT_PORT_TYPE
+result[12] <= sbit_w[107].DB_MAX_OUTPUT_PORT_TYPE
+result[13] <= sbit_w[108].DB_MAX_OUTPUT_PORT_TYPE
+result[14] <= sbit_w[109].DB_MAX_OUTPUT_PORT_TYPE
+result[15] <= sbit_w[110].DB_MAX_OUTPUT_PORT_TYPE
+result[16] <= sbit_w[111].DB_MAX_OUTPUT_PORT_TYPE
+result[17] <= sbit_w[112].DB_MAX_OUTPUT_PORT_TYPE
+result[18] <= sbit_w[113].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_gnd_GN:barrel_shifteruser_aclrgnd
+output <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_vcc_GN:barrel_shifterenavcc
+output <= <VCC>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_multiply_add_GNKLXFKAO3:multiply_add
+clock => alt_dspbuilder_AltMultConst:MultiplyAddi.clock
+aclr => alt_dspbuilder_AltMultConst:MultiplyAddi.aclr
+data1a[0] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[0]
+data1a[1] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[1]
+data1a[2] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[2]
+data1a[3] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[3]
+data1a[4] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[4]
+data1a[5] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[5]
+data1a[6] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[6]
+data1a[7] => alt_dspbuilder_AltMultConst:MultiplyAddi.datain[7]
+data2a[0] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[0]
+data2a[1] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[1]
+data2a[2] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[2]
+data2a[3] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[3]
+data2a[4] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[4]
+data2a[5] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[5]
+data2a[6] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[6]
+data2a[7] => alt_dspbuilder_AltMultConst:MultiplyAddi.datbin[7]
+data3a[0] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[0]
+data3a[1] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[1]
+data3a[2] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[2]
+data3a[3] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[3]
+data3a[4] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[4]
+data3a[5] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[5]
+data3a[6] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[6]
+data3a[7] => alt_dspbuilder_AltMultConst:MultiplyAddi.datcin[7]
+result[0] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[0]
+result[1] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[1]
+result[2] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[2]
+result[3] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[3]
+result[4] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[4]
+result[5] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[5]
+result[6] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[6]
+result[7] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[7]
+result[8] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[8]
+result[9] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[9]
+result[10] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[10]
+result[11] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[11]
+result[12] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[12]
+result[13] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[13]
+result[14] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[14]
+result[15] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[15]
+result[16] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[16]
+result[17] <= alt_dspbuilder_AltMultConst:MultiplyAddi.dataout[17]
+user_aclr => alt_dspbuilder_AltMultConst:MultiplyAddi.user_aclr
+ena => alt_dspbuilder_AltMultConst:MultiplyAddi.ena
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_multiply_add_GNKLXFKAO3:multiply_add|alt_dspbuilder_AltMultConst:MultiplyAddi
+datain[0] => Mult0.IN15
+datain[1] => Mult0.IN14
+datain[2] => Mult0.IN13
+datain[3] => Mult0.IN12
+datain[4] => Mult0.IN11
+datain[5] => Mult0.IN10
+datain[6] => Mult0.IN9
+datain[7] => Mult0.IN8
+datbin[0] => Mult1.IN15
+datbin[1] => Mult1.IN14
+datbin[2] => Mult1.IN13
+datbin[3] => Mult1.IN12
+datbin[4] => Mult1.IN11
+datbin[5] => Mult1.IN10
+datbin[6] => Mult1.IN9
+datbin[7] => Mult1.IN8
+datcin[0] => Mult2.IN15
+datcin[1] => Mult2.IN14
+datcin[2] => Mult2.IN13
+datcin[3] => Mult2.IN12
+datcin[4] => Mult2.IN11
+datcin[5] => Mult2.IN10
+datcin[6] => Mult2.IN9
+datcin[7] => Mult2.IN8
+datdin[0] => Mult3.IN15
+datdin[1] => Mult3.IN14
+datdin[2] => Mult3.IN13
+datdin[3] => Mult3.IN12
+datdin[4] => Mult3.IN11
+datdin[5] => Mult3.IN10
+datdin[6] => Mult3.IN9
+datdin[7] => Mult3.IN8
+dataout[0] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[1] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[2] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[3] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[4] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[5] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[6] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[7] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[8] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[9] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[10] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[11] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[12] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[13] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[14] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[15] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[16] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+dataout[17] <= Add2.DB_MAX_OUTPUT_PORT_TYPE
+clock => ~NO_FANOUT~
+ena => ~NO_FANOUT~
+sclr => ~NO_FANOUT~
+aclr => ~NO_FANOUT~
+user_aclr => ~NO_FANOUT~
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_gnd_GN:multiply_adduser_aclrgnd
+output <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_vcc_GN:multiply_addenavcc
+output <= <VCC>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_multiplexer_GNCALBUTDR:multiplexer
+clock => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.clock
+aclr => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.aclr
+sel[0] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.sel[0]
+result[0] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[0]
+result[1] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[1]
+result[2] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[2]
+result[3] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[3]
+result[4] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[4]
+result[5] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[5]
+result[6] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[6]
+result[7] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[7]
+result[8] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[8]
+result[9] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[9]
+result[10] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[10]
+result[11] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[11]
+result[12] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[12]
+result[13] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[13]
+result[14] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[14]
+result[15] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[15]
+result[16] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[16]
+result[17] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[17]
+result[18] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[18]
+result[19] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[19]
+result[20] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[20]
+result[21] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[21]
+result[22] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[22]
+result[23] <= alt_dspbuilder_sMuxAltr:nto1Multiplexeri.result[23]
+ena => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.ena
+user_aclr => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.user_aclr
+in0[0] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[0]
+in0[1] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[1]
+in0[2] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[2]
+in0[3] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[3]
+in0[4] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[4]
+in0[5] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[5]
+in0[6] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[6]
+in0[7] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[7]
+in0[8] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[8]
+in0[9] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[9]
+in0[10] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[10]
+in0[11] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[11]
+in0[12] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[12]
+in0[13] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[13]
+in0[14] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[14]
+in0[15] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[15]
+in0[16] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[16]
+in0[17] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[17]
+in0[18] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[18]
+in0[19] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[19]
+in0[20] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[20]
+in0[21] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[21]
+in0[22] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[22]
+in0[23] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[23]
+in1[0] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[24]
+in1[1] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[25]
+in1[2] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[26]
+in1[3] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[27]
+in1[4] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[28]
+in1[5] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[29]
+in1[6] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[30]
+in1[7] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[31]
+in1[8] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[32]
+in1[9] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[33]
+in1[10] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[34]
+in1[11] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[35]
+in1[12] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[36]
+in1[13] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[37]
+in1[14] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[38]
+in1[15] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[39]
+in1[16] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[40]
+in1[17] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[41]
+in1[18] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[42]
+in1[19] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[43]
+in1[20] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[44]
+in1[21] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[45]
+in1[22] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[46]
+in1[23] => alt_dspbuilder_sMuxAltr:nto1Multiplexeri.data[47]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_multiplexer_GNCALBUTDR:multiplexer|alt_dspbuilder_sMuxAltr:nto1Multiplexeri
+clock => ~NO_FANOUT~
+aclr => ~NO_FANOUT~
+user_aclr => ~NO_FANOUT~
+ena => ~NO_FANOUT~
+data[0] => LPM_MUX:gc:U0.DATA[0][0]
+data[1] => LPM_MUX:gc:U0.DATA[0][1]
+data[2] => LPM_MUX:gc:U0.DATA[0][2]
+data[3] => LPM_MUX:gc:U0.DATA[0][3]
+data[4] => LPM_MUX:gc:U0.DATA[0][4]
+data[5] => LPM_MUX:gc:U0.DATA[0][5]
+data[6] => LPM_MUX:gc:U0.DATA[0][6]
+data[7] => LPM_MUX:gc:U0.DATA[0][7]
+data[8] => LPM_MUX:gc:U0.DATA[0][8]
+data[9] => LPM_MUX:gc:U0.DATA[0][9]
+data[10] => LPM_MUX:gc:U0.DATA[0][10]
+data[11] => LPM_MUX:gc:U0.DATA[0][11]
+data[12] => LPM_MUX:gc:U0.DATA[0][12]
+data[13] => LPM_MUX:gc:U0.DATA[0][13]
+data[14] => LPM_MUX:gc:U0.DATA[0][14]
+data[15] => LPM_MUX:gc:U0.DATA[0][15]
+data[16] => LPM_MUX:gc:U0.DATA[0][16]
+data[17] => LPM_MUX:gc:U0.DATA[0][17]
+data[18] => LPM_MUX:gc:U0.DATA[0][18]
+data[19] => LPM_MUX:gc:U0.DATA[0][19]
+data[20] => LPM_MUX:gc:U0.DATA[0][20]
+data[21] => LPM_MUX:gc:U0.DATA[0][21]
+data[22] => LPM_MUX:gc:U0.DATA[0][22]
+data[23] => LPM_MUX:gc:U0.DATA[0][23]
+data[24] => LPM_MUX:gc:U0.DATA[1][0]
+data[25] => LPM_MUX:gc:U0.DATA[1][1]
+data[26] => LPM_MUX:gc:U0.DATA[1][2]
+data[27] => LPM_MUX:gc:U0.DATA[1][3]
+data[28] => LPM_MUX:gc:U0.DATA[1][4]
+data[29] => LPM_MUX:gc:U0.DATA[1][5]
+data[30] => LPM_MUX:gc:U0.DATA[1][6]
+data[31] => LPM_MUX:gc:U0.DATA[1][7]
+data[32] => LPM_MUX:gc:U0.DATA[1][8]
+data[33] => LPM_MUX:gc:U0.DATA[1][9]
+data[34] => LPM_MUX:gc:U0.DATA[1][10]
+data[35] => LPM_MUX:gc:U0.DATA[1][11]
+data[36] => LPM_MUX:gc:U0.DATA[1][12]
+data[37] => LPM_MUX:gc:U0.DATA[1][13]
+data[38] => LPM_MUX:gc:U0.DATA[1][14]
+data[39] => LPM_MUX:gc:U0.DATA[1][15]
+data[40] => LPM_MUX:gc:U0.DATA[1][16]
+data[41] => LPM_MUX:gc:U0.DATA[1][17]
+data[42] => LPM_MUX:gc:U0.DATA[1][18]
+data[43] => LPM_MUX:gc:U0.DATA[1][19]
+data[44] => LPM_MUX:gc:U0.DATA[1][20]
+data[45] => LPM_MUX:gc:U0.DATA[1][21]
+data[46] => LPM_MUX:gc:U0.DATA[1][22]
+data[47] => LPM_MUX:gc:U0.DATA[1][23]
+sel[0] => LPM_MUX:gc:U0.SEL[0]
+result[0] <= LPM_MUX:gc:U0.RESULT[0]
+result[1] <= LPM_MUX:gc:U0.RESULT[1]
+result[2] <= LPM_MUX:gc:U0.RESULT[2]
+result[3] <= LPM_MUX:gc:U0.RESULT[3]
+result[4] <= LPM_MUX:gc:U0.RESULT[4]
+result[5] <= LPM_MUX:gc:U0.RESULT[5]
+result[6] <= LPM_MUX:gc:U0.RESULT[6]
+result[7] <= LPM_MUX:gc:U0.RESULT[7]
+result[8] <= LPM_MUX:gc:U0.RESULT[8]
+result[9] <= LPM_MUX:gc:U0.RESULT[9]
+result[10] <= LPM_MUX:gc:U0.RESULT[10]
+result[11] <= LPM_MUX:gc:U0.RESULT[11]
+result[12] <= LPM_MUX:gc:U0.RESULT[12]
+result[13] <= LPM_MUX:gc:U0.RESULT[13]
+result[14] <= LPM_MUX:gc:U0.RESULT[14]
+result[15] <= LPM_MUX:gc:U0.RESULT[15]
+result[16] <= LPM_MUX:gc:U0.RESULT[16]
+result[17] <= LPM_MUX:gc:U0.RESULT[17]
+result[18] <= LPM_MUX:gc:U0.RESULT[18]
+result[19] <= LPM_MUX:gc:U0.RESULT[19]
+result[20] <= LPM_MUX:gc:U0.RESULT[20]
+result[21] <= LPM_MUX:gc:U0.RESULT[21]
+result[22] <= LPM_MUX:gc:U0.RESULT[22]
+result[23] <= LPM_MUX:gc:U0.RESULT[23]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_multiplexer_GNCALBUTDR:multiplexer|alt_dspbuilder_sMuxAltr:nto1Multiplexeri|LPM_MUX:\gc:U0
+data[0][0] => mux_p1e:auto_generated.data[0]
+data[0][1] => mux_p1e:auto_generated.data[1]
+data[0][2] => mux_p1e:auto_generated.data[2]
+data[0][3] => mux_p1e:auto_generated.data[3]
+data[0][4] => mux_p1e:auto_generated.data[4]
+data[0][5] => mux_p1e:auto_generated.data[5]
+data[0][6] => mux_p1e:auto_generated.data[6]
+data[0][7] => mux_p1e:auto_generated.data[7]
+data[0][8] => mux_p1e:auto_generated.data[8]
+data[0][9] => mux_p1e:auto_generated.data[9]
+data[0][10] => mux_p1e:auto_generated.data[10]
+data[0][11] => mux_p1e:auto_generated.data[11]
+data[0][12] => mux_p1e:auto_generated.data[12]
+data[0][13] => mux_p1e:auto_generated.data[13]
+data[0][14] => mux_p1e:auto_generated.data[14]
+data[0][15] => mux_p1e:auto_generated.data[15]
+data[0][16] => mux_p1e:auto_generated.data[16]
+data[0][17] => mux_p1e:auto_generated.data[17]
+data[0][18] => mux_p1e:auto_generated.data[18]
+data[0][19] => mux_p1e:auto_generated.data[19]
+data[0][20] => mux_p1e:auto_generated.data[20]
+data[0][21] => mux_p1e:auto_generated.data[21]
+data[0][22] => mux_p1e:auto_generated.data[22]
+data[0][23] => mux_p1e:auto_generated.data[23]
+data[1][0] => mux_p1e:auto_generated.data[24]
+data[1][1] => mux_p1e:auto_generated.data[25]
+data[1][2] => mux_p1e:auto_generated.data[26]
+data[1][3] => mux_p1e:auto_generated.data[27]
+data[1][4] => mux_p1e:auto_generated.data[28]
+data[1][5] => mux_p1e:auto_generated.data[29]
+data[1][6] => mux_p1e:auto_generated.data[30]
+data[1][7] => mux_p1e:auto_generated.data[31]
+data[1][8] => mux_p1e:auto_generated.data[32]
+data[1][9] => mux_p1e:auto_generated.data[33]
+data[1][10] => mux_p1e:auto_generated.data[34]
+data[1][11] => mux_p1e:auto_generated.data[35]
+data[1][12] => mux_p1e:auto_generated.data[36]
+data[1][13] => mux_p1e:auto_generated.data[37]
+data[1][14] => mux_p1e:auto_generated.data[38]
+data[1][15] => mux_p1e:auto_generated.data[39]
+data[1][16] => mux_p1e:auto_generated.data[40]
+data[1][17] => mux_p1e:auto_generated.data[41]
+data[1][18] => mux_p1e:auto_generated.data[42]
+data[1][19] => mux_p1e:auto_generated.data[43]
+data[1][20] => mux_p1e:auto_generated.data[44]
+data[1][21] => mux_p1e:auto_generated.data[45]
+data[1][22] => mux_p1e:auto_generated.data[46]
+data[1][23] => mux_p1e:auto_generated.data[47]
+sel[0] => mux_p1e:auto_generated.sel[0]
+clock => ~NO_FANOUT~
+aclr => ~NO_FANOUT~
+clken => ~NO_FANOUT~
+result[0] <= mux_p1e:auto_generated.result[0]
+result[1] <= mux_p1e:auto_generated.result[1]
+result[2] <= mux_p1e:auto_generated.result[2]
+result[3] <= mux_p1e:auto_generated.result[3]
+result[4] <= mux_p1e:auto_generated.result[4]
+result[5] <= mux_p1e:auto_generated.result[5]
+result[6] <= mux_p1e:auto_generated.result[6]
+result[7] <= mux_p1e:auto_generated.result[7]
+result[8] <= mux_p1e:auto_generated.result[8]
+result[9] <= mux_p1e:auto_generated.result[9]
+result[10] <= mux_p1e:auto_generated.result[10]
+result[11] <= mux_p1e:auto_generated.result[11]
+result[12] <= mux_p1e:auto_generated.result[12]
+result[13] <= mux_p1e:auto_generated.result[13]
+result[14] <= mux_p1e:auto_generated.result[14]
+result[15] <= mux_p1e:auto_generated.result[15]
+result[16] <= mux_p1e:auto_generated.result[16]
+result[17] <= mux_p1e:auto_generated.result[17]
+result[18] <= mux_p1e:auto_generated.result[18]
+result[19] <= mux_p1e:auto_generated.result[19]
+result[20] <= mux_p1e:auto_generated.result[20]
+result[21] <= mux_p1e:auto_generated.result[21]
+result[22] <= mux_p1e:auto_generated.result[22]
+result[23] <= mux_p1e:auto_generated.result[23]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_multiplexer_GNCALBUTDR:multiplexer|alt_dspbuilder_sMuxAltr:nto1Multiplexeri|LPM_MUX:\gc:U0|mux_p1e:auto_generated
+data[0] => l1_w0_n0_mux_dataout.IN1
+data[1] => l1_w1_n0_mux_dataout.IN1
+data[2] => l1_w2_n0_mux_dataout.IN1
+data[3] => l1_w3_n0_mux_dataout.IN1
+data[4] => l1_w4_n0_mux_dataout.IN1
+data[5] => l1_w5_n0_mux_dataout.IN1
+data[6] => l1_w6_n0_mux_dataout.IN1
+data[7] => l1_w7_n0_mux_dataout.IN1
+data[8] => l1_w8_n0_mux_dataout.IN1
+data[9] => l1_w9_n0_mux_dataout.IN1
+data[10] => l1_w10_n0_mux_dataout.IN1
+data[11] => l1_w11_n0_mux_dataout.IN1
+data[12] => l1_w12_n0_mux_dataout.IN1
+data[13] => l1_w13_n0_mux_dataout.IN1
+data[14] => l1_w14_n0_mux_dataout.IN1
+data[15] => l1_w15_n0_mux_dataout.IN1
+data[16] => l1_w16_n0_mux_dataout.IN1
+data[17] => l1_w17_n0_mux_dataout.IN1
+data[18] => l1_w18_n0_mux_dataout.IN1
+data[19] => l1_w19_n0_mux_dataout.IN1
+data[20] => l1_w20_n0_mux_dataout.IN1
+data[21] => l1_w21_n0_mux_dataout.IN1
+data[22] => l1_w22_n0_mux_dataout.IN1
+data[23] => l1_w23_n0_mux_dataout.IN1
+data[24] => l1_w0_n0_mux_dataout.IN1
+data[25] => l1_w1_n0_mux_dataout.IN1
+data[26] => l1_w2_n0_mux_dataout.IN1
+data[27] => l1_w3_n0_mux_dataout.IN1
+data[28] => l1_w4_n0_mux_dataout.IN1
+data[29] => l1_w5_n0_mux_dataout.IN1
+data[30] => l1_w6_n0_mux_dataout.IN1
+data[31] => l1_w7_n0_mux_dataout.IN1
+data[32] => l1_w8_n0_mux_dataout.IN1
+data[33] => l1_w9_n0_mux_dataout.IN1
+data[34] => l1_w10_n0_mux_dataout.IN1
+data[35] => l1_w11_n0_mux_dataout.IN1
+data[36] => l1_w12_n0_mux_dataout.IN1
+data[37] => l1_w13_n0_mux_dataout.IN1
+data[38] => l1_w14_n0_mux_dataout.IN1
+data[39] => l1_w15_n0_mux_dataout.IN1
+data[40] => l1_w16_n0_mux_dataout.IN1
+data[41] => l1_w17_n0_mux_dataout.IN1
+data[42] => l1_w18_n0_mux_dataout.IN1
+data[43] => l1_w19_n0_mux_dataout.IN1
+data[44] => l1_w20_n0_mux_dataout.IN1
+data[45] => l1_w21_n0_mux_dataout.IN1
+data[46] => l1_w22_n0_mux_dataout.IN1
+data[47] => l1_w23_n0_mux_dataout.IN1
+result[0] <= l1_w0_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= l1_w1_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= l1_w2_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= l1_w3_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= l1_w4_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= l1_w5_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= l1_w6_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[7] <= l1_w7_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[8] <= l1_w8_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[9] <= l1_w9_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[10] <= l1_w10_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[11] <= l1_w11_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[12] <= l1_w12_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[13] <= l1_w13_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[14] <= l1_w14_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[15] <= l1_w15_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[16] <= l1_w16_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[17] <= l1_w17_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[18] <= l1_w18_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[19] <= l1_w19_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[20] <= l1_w20_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[21] <= l1_w21_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[22] <= l1_w22_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+result[23] <= l1_w23_n0_mux_dataout.DB_MAX_OUTPUT_PORT_TYPE
+sel[0] => l1_w0_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w10_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w11_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w12_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w13_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w14_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w15_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w16_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w17_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w18_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w19_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w1_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w20_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w21_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w22_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w23_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w2_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w3_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w4_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w5_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w6_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w7_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w8_n0_mux_dataout.IN0
+sel[0] => _.IN0
+sel[0] => l1_w9_n0_mux_dataout.IN0
+sel[0] => _.IN0
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_gnd_GN:multiplexeruser_aclrgnd
+output <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_vcc_GN:multiplexerenavcc
+output <= <VCC>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNJGR7GQ2L:bus_conversion
+input[0] => alt_dspbuilder_SBF:Outputi.xin[0]
+input[1] => alt_dspbuilder_SBF:Outputi.xin[1]
+input[2] => alt_dspbuilder_SBF:Outputi.xin[2]
+input[3] => alt_dspbuilder_SBF:Outputi.xin[3]
+input[4] => alt_dspbuilder_SBF:Outputi.xin[4]
+input[5] => alt_dspbuilder_SBF:Outputi.xin[5]
+input[6] => alt_dspbuilder_SBF:Outputi.xin[6]
+input[7] => alt_dspbuilder_SBF:Outputi.xin[7]
+input[8] => alt_dspbuilder_SBF:Outputi.xin[8]
+input[9] => alt_dspbuilder_SBF:Outputi.xin[9]
+input[10] => alt_dspbuilder_SBF:Outputi.xin[10]
+input[11] => alt_dspbuilder_SBF:Outputi.xin[11]
+input[12] => alt_dspbuilder_SBF:Outputi.xin[12]
+input[13] => alt_dspbuilder_SBF:Outputi.xin[13]
+input[14] => alt_dspbuilder_SBF:Outputi.xin[14]
+input[15] => alt_dspbuilder_SBF:Outputi.xin[15]
+input[16] => alt_dspbuilder_SBF:Outputi.xin[16]
+input[17] => alt_dspbuilder_SBF:Outputi.xin[17]
+output[0] <= alt_dspbuilder_SBF:Outputi.yout[0]
+output[1] <= alt_dspbuilder_SBF:Outputi.yout[1]
+output[2] <= alt_dspbuilder_SBF:Outputi.yout[2]
+output[3] <= alt_dspbuilder_SBF:Outputi.yout[3]
+output[4] <= alt_dspbuilder_SBF:Outputi.yout[4]
+output[5] <= alt_dspbuilder_SBF:Outputi.yout[5]
+output[6] <= alt_dspbuilder_SBF:Outputi.yout[6]
+output[7] <= alt_dspbuilder_SBF:Outputi.yout[7]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNJGR7GQ2L:bus_conversion|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+xin[2] => alt_dspbuilder_sAltrPropagate:u0.d[2]
+xin[3] => alt_dspbuilder_sAltrPropagate:u0.d[3]
+xin[4] => alt_dspbuilder_sAltrPropagate:u0.d[4]
+xin[5] => alt_dspbuilder_sAltrPropagate:u0.d[5]
+xin[6] => alt_dspbuilder_sAltrPropagate:u0.d[6]
+xin[7] => alt_dspbuilder_sAltrPropagate:u0.d[7]
+xin[8] => alt_dspbuilder_sAltrPropagate:u0.d[8]
+xin[9] => alt_dspbuilder_sAltrPropagate:u0.d[9]
+xin[10] => alt_dspbuilder_sAltrPropagate:u0.d[10]
+xin[11] => alt_dspbuilder_sAltrPropagate:u0.d[11]
+xin[12] => alt_dspbuilder_sAltrPropagate:u0.d[12]
+xin[13] => alt_dspbuilder_sAltrPropagate:u0.d[13]
+xin[14] => alt_dspbuilder_sAltrPropagate:u0.d[14]
+xin[15] => alt_dspbuilder_sAltrPropagate:u0.d[15]
+xin[16] => alt_dspbuilder_sAltrPropagate:u0.d[16]
+xin[17] => alt_dspbuilder_sAltrPropagate:u0.d[17]
+xin[18] => alt_dspbuilder_sAltrPropagate:u0.d[18]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[0]
+yout[1] <= alt_dspbuilder_sAltrPropagate:u0.r[1]
+yout[2] <= alt_dspbuilder_sAltrPropagate:u0.r[2]
+yout[3] <= alt_dspbuilder_sAltrPropagate:u0.r[3]
+yout[4] <= alt_dspbuilder_sAltrPropagate:u0.r[4]
+yout[5] <= alt_dspbuilder_sAltrPropagate:u0.r[5]
+yout[6] <= alt_dspbuilder_sAltrPropagate:u0.r[6]
+yout[7] <= alt_dspbuilder_sAltrPropagate:u0.r[7]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNJGR7GQ2L:bus_conversion|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+d[2] => r[2].DATAIN
+d[3] => r[3].DATAIN
+d[4] => r[4].DATAIN
+d[5] => r[5].DATAIN
+d[6] => r[6].DATAIN
+d[7] => r[7].DATAIN
+d[8] => r[8].DATAIN
+d[9] => r[9].DATAIN
+d[10] => r[10].DATAIN
+d[11] => r[11].DATAIN
+d[12] => r[12].DATAIN
+d[13] => r[13].DATAIN
+d[14] => r[14].DATAIN
+d[15] => r[15].DATAIN
+d[16] => r[16].DATAIN
+d[17] => r[17].DATAIN
+d[18] => r[18].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+r[2] <= d[2].DB_MAX_OUTPUT_PORT_TYPE
+r[3] <= d[3].DB_MAX_OUTPUT_PORT_TYPE
+r[4] <= d[4].DB_MAX_OUTPUT_PORT_TYPE
+r[5] <= d[5].DB_MAX_OUTPUT_PORT_TYPE
+r[6] <= d[6].DB_MAX_OUTPUT_PORT_TYPE
+r[7] <= d[7].DB_MAX_OUTPUT_PORT_TYPE
+r[8] <= d[8].DB_MAX_OUTPUT_PORT_TYPE
+r[9] <= d[9].DB_MAX_OUTPUT_PORT_TYPE
+r[10] <= d[10].DB_MAX_OUTPUT_PORT_TYPE
+r[11] <= d[11].DB_MAX_OUTPUT_PORT_TYPE
+r[12] <= d[12].DB_MAX_OUTPUT_PORT_TYPE
+r[13] <= d[13].DB_MAX_OUTPUT_PORT_TYPE
+r[14] <= d[14].DB_MAX_OUTPUT_PORT_TYPE
+r[15] <= d[15].DB_MAX_OUTPUT_PORT_TYPE
+r[16] <= d[16].DB_MAX_OUTPUT_PORT_TYPE
+r[17] <= d[17].DB_MAX_OUTPUT_PORT_TYPE
+r[18] <= d[18].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_constant_GNZEH3JAKA:constant4
+output[0] <= <VCC>
+output[1] <= <VCC>
+output[2] <= <VCC>
+output[3] <= <VCC>
+output[4] <= <GND>
+output[5] <= <GND>
+output[6] <= <GND>
+output[7] <= <GND>
+output[8] <= <GND>
+output[9] <= <GND>
+output[10] <= <GND>
+output[11] <= <GND>
+output[12] <= <GND>
+output[13] <= <GND>
+output[14] <= <GND>
+output[15] <= <GND>
+output[16] <= <GND>
+output[17] <= <GND>
+output[18] <= <GND>
+output[19] <= <GND>
+output[20] <= <GND>
+output[21] <= <GND>
+output[22] <= <GND>
+output[23] <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_if_statement_GN7VA7SRUP:if_statement1
+true <= result.DB_MAX_OUTPUT_PORT_TYPE
+a[0] => Equal0.IN23
+a[0] => Equal1.IN23
+a[1] => Equal0.IN22
+a[1] => Equal1.IN22
+a[2] => Equal0.IN21
+a[2] => Equal1.IN21
+a[3] => Equal0.IN20
+a[3] => Equal1.IN20
+a[4] => Equal0.IN19
+a[4] => Equal1.IN19
+a[5] => Equal0.IN18
+a[5] => Equal1.IN18
+a[6] => Equal0.IN17
+a[6] => Equal1.IN17
+a[7] => Equal0.IN16
+a[7] => Equal1.IN16
+a[8] => Equal0.IN15
+a[8] => Equal1.IN15
+a[9] => Equal0.IN14
+a[9] => Equal1.IN14
+a[10] => Equal0.IN13
+a[10] => Equal1.IN13
+a[11] => Equal0.IN12
+a[11] => Equal1.IN12
+a[12] => Equal0.IN11
+a[12] => Equal1.IN11
+a[13] => Equal0.IN10
+a[13] => Equal1.IN10
+a[14] => Equal0.IN9
+a[14] => Equal1.IN9
+a[15] => Equal0.IN8
+a[15] => Equal1.IN8
+a[16] => Equal0.IN7
+a[16] => Equal1.IN7
+a[17] => Equal0.IN6
+a[17] => Equal1.IN6
+a[18] => Equal0.IN5
+a[18] => Equal1.IN5
+a[19] => Equal0.IN4
+a[19] => Equal1.IN4
+a[20] => Equal0.IN3
+a[20] => Equal1.IN3
+a[21] => Equal0.IN2
+a[21] => Equal1.IN2
+a[22] => Equal0.IN1
+a[22] => Equal1.IN1
+a[23] => Equal0.IN0
+a[23] => Equal1.IN0
+b[0] => Equal0.IN47
+b[1] => Equal0.IN46
+b[2] => Equal0.IN45
+b[3] => Equal0.IN44
+b[4] => Equal0.IN43
+b[5] => Equal0.IN42
+b[6] => Equal0.IN41
+b[7] => Equal0.IN40
+b[8] => Equal0.IN39
+b[9] => Equal0.IN38
+b[10] => Equal0.IN37
+b[11] => Equal0.IN36
+b[12] => Equal0.IN35
+b[13] => Equal0.IN34
+b[14] => Equal0.IN33
+b[15] => Equal0.IN32
+b[16] => Equal0.IN31
+b[17] => Equal0.IN30
+b[18] => Equal0.IN29
+b[19] => Equal0.IN28
+b[20] => Equal0.IN27
+b[21] => Equal0.IN26
+b[22] => Equal0.IN25
+b[23] => Equal0.IN24
+c[0] => Equal1.IN47
+c[1] => Equal1.IN46
+c[2] => Equal1.IN45
+c[3] => Equal1.IN44
+c[4] => Equal1.IN43
+c[5] => Equal1.IN42
+c[6] => Equal1.IN41
+c[7] => Equal1.IN40
+c[8] => Equal1.IN39
+c[9] => Equal1.IN38
+c[10] => Equal1.IN37
+c[11] => Equal1.IN36
+c[12] => Equal1.IN35
+c[13] => Equal1.IN34
+c[14] => Equal1.IN33
+c[15] => Equal1.IN32
+c[16] => Equal1.IN31
+c[17] => Equal1.IN30
+c[18] => Equal1.IN29
+c[19] => Equal1.IN28
+c[20] => Equal1.IN27
+c[21] => Equal1.IN26
+c[22] => Equal1.IN25
+c[23] => Equal1.IN24
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_port_GN37ALZBS4:sop_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_bus_concat_GN55ETJ4VI:bus_concatenation1
+a[0] => output[16].DATAIN
+a[1] => output[17].DATAIN
+a[2] => output[18].DATAIN
+a[3] => output[19].DATAIN
+a[4] => output[20].DATAIN
+a[5] => output[21].DATAIN
+a[6] => output[22].DATAIN
+a[7] => output[23].DATAIN
+aclr => ~NO_FANOUT~
+b[0] => output[0].DATAIN
+b[1] => output[1].DATAIN
+b[2] => output[2].DATAIN
+b[3] => output[3].DATAIN
+b[4] => output[4].DATAIN
+b[5] => output[5].DATAIN
+b[6] => output[6].DATAIN
+b[7] => output[7].DATAIN
+b[8] => output[8].DATAIN
+b[9] => output[9].DATAIN
+b[10] => output[10].DATAIN
+b[11] => output[11].DATAIN
+b[12] => output[12].DATAIN
+b[13] => output[13].DATAIN
+b[14] => output[14].DATAIN
+b[15] => output[15].DATAIN
+clock => ~NO_FANOUT~
+output[0] <= b[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= b[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= b[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= b[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= b[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= b[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= b[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= b[7].DB_MAX_OUTPUT_PORT_TYPE
+output[8] <= b[8].DB_MAX_OUTPUT_PORT_TYPE
+output[9] <= b[9].DB_MAX_OUTPUT_PORT_TYPE
+output[10] <= b[10].DB_MAX_OUTPUT_PORT_TYPE
+output[11] <= b[11].DB_MAX_OUTPUT_PORT_TYPE
+output[12] <= b[12].DB_MAX_OUTPUT_PORT_TYPE
+output[13] <= b[13].DB_MAX_OUTPUT_PORT_TYPE
+output[14] <= b[14].DB_MAX_OUTPUT_PORT_TYPE
+output[15] <= b[15].DB_MAX_OUTPUT_PORT_TYPE
+output[16] <= a[0].DB_MAX_OUTPUT_PORT_TYPE
+output[17] <= a[1].DB_MAX_OUTPUT_PORT_TYPE
+output[18] <= a[2].DB_MAX_OUTPUT_PORT_TYPE
+output[19] <= a[3].DB_MAX_OUTPUT_PORT_TYPE
+output[20] <= a[4].DB_MAX_OUTPUT_PORT_TYPE
+output[21] <= a[5].DB_MAX_OUTPUT_PORT_TYPE
+output[22] <= a[6].DB_MAX_OUTPUT_PORT_TYPE
+output[23] <= a[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNHYCSAEGT:delay1
+aclr => alt_dspbuilder_SDelay:Delay1i.aclr
+clock => alt_dspbuilder_SDelay:Delay1i.clock
+ena => alt_dspbuilder_SDelay:Delay1i.ena
+input[0] => alt_dspbuilder_SDelay:Delay1i.dataa[0]
+output[0] <= alt_dspbuilder_SDelay:Delay1i.result[0]
+sclr => alt_dspbuilder_SDelay:Delay1i.sclr
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNHYCSAEGT:delay1|alt_dspbuilder_SDelay:Delay1i
+dataa[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+clock => result[0]~reg0.CLK
+ena => result.OUTPUTSELECT
+aclr => aclr_i.IN0
+user_aclr => aclr_i.IN1
+sclr => result.OUTPUTSELECT
+result[0] <= result[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNHYCSAEGT:delay1|alt_dspbuilder_SDelay:Delay1i|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_gnd_GN:delay1sclrgnd
+output <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_vcc_GN:delay1enavcc
+output <= <VCC>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_bus_concat_GNIIOZRPJD:bus_concatenation
+a[0] => output[8].DATAIN
+a[1] => output[9].DATAIN
+a[2] => output[10].DATAIN
+a[3] => output[11].DATAIN
+a[4] => output[12].DATAIN
+a[5] => output[13].DATAIN
+a[6] => output[14].DATAIN
+a[7] => output[15].DATAIN
+aclr => ~NO_FANOUT~
+b[0] => output[0].DATAIN
+b[1] => output[1].DATAIN
+b[2] => output[2].DATAIN
+b[3] => output[3].DATAIN
+b[4] => output[4].DATAIN
+b[5] => output[5].DATAIN
+b[6] => output[6].DATAIN
+b[7] => output[7].DATAIN
+clock => ~NO_FANOUT~
+output[0] <= b[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= b[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= b[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= b[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= b[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= b[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= b[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= b[7].DB_MAX_OUTPUT_PORT_TYPE
+output[8] <= a[0].DB_MAX_OUTPUT_PORT_TYPE
+output[9] <= a[1].DB_MAX_OUTPUT_PORT_TYPE
+output[10] <= a[2].DB_MAX_OUTPUT_PORT_TYPE
+output[11] <= a[3].DB_MAX_OUTPUT_PORT_TYPE
+output[12] <= a[4].DB_MAX_OUTPUT_PORT_TYPE
+output[13] <= a[5].DB_MAX_OUTPUT_PORT_TYPE
+output[14] <= a[6].DB_MAX_OUTPUT_PORT_TYPE
+output[15] <= a[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_constant_GNNKZSYI73:constant3
+output[0] <= <GND>
+output[1] <= <GND>
+output[2] <= <GND>
+output[3] <= <GND>
+output[4] <= <GND>
+output[5] <= <GND>
+output[6] <= <GND>
+output[7] <= <GND>
+output[8] <= <GND>
+output[9] <= <GND>
+output[10] <= <GND>
+output[11] <= <GND>
+output[12] <= <GND>
+output[13] <= <GND>
+output[14] <= <GND>
+output[15] <= <GND>
+output[16] <= <GND>
+output[17] <= <GND>
+output[18] <= <GND>
+output[19] <= <GND>
+output[20] <= <GND>
+output[21] <= <GND>
+output[22] <= <GND>
+output[23] <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNHYCSAEGT:delay2
+aclr => alt_dspbuilder_SDelay:Delay1i.aclr
+clock => alt_dspbuilder_SDelay:Delay1i.clock
+ena => alt_dspbuilder_SDelay:Delay1i.ena
+input[0] => alt_dspbuilder_SDelay:Delay1i.dataa[0]
+output[0] <= alt_dspbuilder_SDelay:Delay1i.result[0]
+sclr => alt_dspbuilder_SDelay:Delay1i.sclr
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNHYCSAEGT:delay2|alt_dspbuilder_SDelay:Delay1i
+dataa[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+clock => result[0]~reg0.CLK
+ena => result.OUTPUTSELECT
+aclr => aclr_i.IN0
+user_aclr => aclr_i.IN1
+sclr => result.OUTPUTSELECT
+result[0] <= result[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNHYCSAEGT:delay2|alt_dspbuilder_SDelay:Delay1i|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_gnd_GN:delay2sclrgnd
+output <= <GND>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_vcc_GN:delay2enavcc
+output <= <VCC>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNUECIBFDH:delay
+aclr => alt_dspbuilder_SInitDelay:DelayWithInit.aclr
+clock => alt_dspbuilder_SInitDelay:DelayWithInit.clock
+ena => alt_dspbuilder_SInitDelay:DelayWithInit.ena
+input[0] => alt_dspbuilder_SInitDelay:DelayWithInit.dataa[0]
+output[0] <= alt_dspbuilder_SInitDelay:DelayWithInit.result[0]
+sclr => alt_dspbuilder_SInitDelay:DelayWithInit.sclr
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNUECIBFDH:delay|alt_dspbuilder_SInitDelay:DelayWithInit
+dataa[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+clock => result[0]~reg0.CLK
+ena => result.OUTPUTSELECT
+aclr => aclr_i.IN0
+user_aclr => aclr_i.IN1
+sclr => result.OUTPUTSELECT
+result[0] <= result[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_delay_GNUECIBFDH:delay|alt_dspbuilder_SInitDelay:DelayWithInit|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_constant_GNPXZ5JSVR:constant1
+output[0] <= <GND>
+output[1] <= <GND>
+output[2] <= <GND>
+output[3] <= <VCC>
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_port_GNOC3SGKQJ:data_out_0
+input[0] => output[0].DATAIN
+input[1] => output[1].DATAIN
+input[2] => output[2].DATAIN
+input[3] => output[3].DATAIN
+input[4] => output[4].DATAIN
+input[5] => output[5].DATAIN
+input[6] => output[6].DATAIN
+input[7] => output[7].DATAIN
+input[8] => output[8].DATAIN
+input[9] => output[9].DATAIN
+input[10] => output[10].DATAIN
+input[11] => output[11].DATAIN
+input[12] => output[12].DATAIN
+input[13] => output[13].DATAIN
+input[14] => output[14].DATAIN
+input[15] => output[15].DATAIN
+input[16] => output[16].DATAIN
+input[17] => output[17].DATAIN
+input[18] => output[18].DATAIN
+input[19] => output[19].DATAIN
+input[20] => output[20].DATAIN
+input[21] => output[21].DATAIN
+input[22] => output[22].DATAIN
+input[23] => output[23].DATAIN
+output[0] <= input[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= input[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= input[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= input[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= input[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= input[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= input[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= input[7].DB_MAX_OUTPUT_PORT_TYPE
+output[8] <= input[8].DB_MAX_OUTPUT_PORT_TYPE
+output[9] <= input[9].DB_MAX_OUTPUT_PORT_TYPE
+output[10] <= input[10].DB_MAX_OUTPUT_PORT_TYPE
+output[11] <= input[11].DB_MAX_OUTPUT_PORT_TYPE
+output[12] <= input[12].DB_MAX_OUTPUT_PORT_TYPE
+output[13] <= input[13].DB_MAX_OUTPUT_PORT_TYPE
+output[14] <= input[14].DB_MAX_OUTPUT_PORT_TYPE
+output[15] <= input[15].DB_MAX_OUTPUT_PORT_TYPE
+output[16] <= input[16].DB_MAX_OUTPUT_PORT_TYPE
+output[17] <= input[17].DB_MAX_OUTPUT_PORT_TYPE
+output[18] <= input[18].DB_MAX_OUTPUT_PORT_TYPE
+output[19] <= input[19].DB_MAX_OUTPUT_PORT_TYPE
+output[20] <= input[20].DB_MAX_OUTPUT_PORT_TYPE
+output[21] <= input[21].DB_MAX_OUTPUT_PORT_TYPE
+output[22] <= input[22].DB_MAX_OUTPUT_PORT_TYPE
+output[23] <= input[23].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_port_GNOC3SGKQJ:data_in_0
+input[0] => output[0].DATAIN
+input[1] => output[1].DATAIN
+input[2] => output[2].DATAIN
+input[3] => output[3].DATAIN
+input[4] => output[4].DATAIN
+input[5] => output[5].DATAIN
+input[6] => output[6].DATAIN
+input[7] => output[7].DATAIN
+input[8] => output[8].DATAIN
+input[9] => output[9].DATAIN
+input[10] => output[10].DATAIN
+input[11] => output[11].DATAIN
+input[12] => output[12].DATAIN
+input[13] => output[13].DATAIN
+input[14] => output[14].DATAIN
+input[15] => output[15].DATAIN
+input[16] => output[16].DATAIN
+input[17] => output[17].DATAIN
+input[18] => output[18].DATAIN
+input[19] => output[19].DATAIN
+input[20] => output[20].DATAIN
+input[21] => output[21].DATAIN
+input[22] => output[22].DATAIN
+input[23] => output[23].DATAIN
+output[0] <= input[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= input[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= input[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= input[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= input[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= input[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= input[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= input[7].DB_MAX_OUTPUT_PORT_TYPE
+output[8] <= input[8].DB_MAX_OUTPUT_PORT_TYPE
+output[9] <= input[9].DB_MAX_OUTPUT_PORT_TYPE
+output[10] <= input[10].DB_MAX_OUTPUT_PORT_TYPE
+output[11] <= input[11].DB_MAX_OUTPUT_PORT_TYPE
+output[12] <= input[12].DB_MAX_OUTPUT_PORT_TYPE
+output[13] <= input[13].DB_MAX_OUTPUT_PORT_TYPE
+output[14] <= input[14].DB_MAX_OUTPUT_PORT_TYPE
+output[15] <= input[15].DB_MAX_OUTPUT_PORT_TYPE
+output[16] <= input[16].DB_MAX_OUTPUT_PORT_TYPE
+output[17] <= input[17].DB_MAX_OUTPUT_PORT_TYPE
+output[18] <= input[18].DB_MAX_OUTPUT_PORT_TYPE
+output[19] <= input[19].DB_MAX_OUTPUT_PORT_TYPE
+output[20] <= input[20].DB_MAX_OUTPUT_PORT_TYPE
+output[21] <= input[21].DB_MAX_OUTPUT_PORT_TYPE
+output[22] <= input[22].DB_MAX_OUTPUT_PORT_TYPE
+output[23] <= input[23].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_port_GN37ALZBS4:eop_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_logical_bit_op_GNA5ZFEL7V:logical_bit_operator1
+result <= alt_dspbuilder_SBitLogical:LogicalBitOperatori.result
+data0 => alt_dspbuilder_SBitLogical:LogicalBitOperatori.dataa[0]
+data1 => alt_dspbuilder_SBitLogical:LogicalBitOperatori.dataa[1]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_logical_bit_op_GNA5ZFEL7V:logical_bit_operator1|alt_dspbuilder_SBitLogical:LogicalBitOperatori
+dataa[0] => Equal0.IN0
+dataa[1] => Equal0.IN1
+result <= alt_dspbuilder_sAltrBitPropagate:u0.r
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_logical_bit_op_GNA5ZFEL7V:logical_bit_operator1|alt_dspbuilder_SBitLogical:LogicalBitOperatori|alt_dspbuilder_sAltrBitPropagate:u0
+d => r.DATAIN
+r <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast0
+input[0] => alt_dspbuilder_SBF:Outputi.xin[0]
+output <= alt_dspbuilder_SBF:Outputi.yout[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast0|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast0|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast1
+input[0] => alt_dspbuilder_SBF:Outputi.xin[0]
+output <= alt_dspbuilder_SBF:Outputi.yout[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast1|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast1|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN46N4UJ5S:cast2
+input => alt_dspbuilder_SBF:Outputi.xin[0]
+output[0] <= alt_dspbuilder_SBF:Outputi.yout[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN46N4UJ5S:cast2|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN46N4UJ5S:cast2|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast3
+input[0] => alt_dspbuilder_SBF:Outputi.xin[0]
+output <= alt_dspbuilder_SBF:Outputi.yout[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast3|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GNSB3OXIQS:cast3|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN46N4UJ5S:cast4
+input => alt_dspbuilder_SBF:Outputi.xin[0]
+output[0] <= alt_dspbuilder_SBF:Outputi.yout[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN46N4UJ5S:cast4|alt_dspbuilder_SBF:Outputi
+xin[0] => alt_dspbuilder_sAltrPropagate:u0.d[0]
+xin[1] => alt_dspbuilder_sAltrPropagate:u0.d[1]
+yout[0] <= alt_dspbuilder_sAltrPropagate:u0.r[0]
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_cast_GN46N4UJ5S:cast4|alt_dspbuilder_SBF:Outputi|alt_dspbuilder_sAltrPropagate:u0
+d[0] => r[0].DATAIN
+d[1] => r[1].DATAIN
+r[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
+r[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_valid_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_valid_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_endofpacket_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_startofpacket_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_source_ready_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_ready_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GN37ALZBS4:avalon_st_sink_startofpacket_0
+input => output.DATAIN
+output <= input.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|alt_dspbuilder_port_GNOC3SGKQJ:avalon_st_source_data_0
+input[0] => output[0].DATAIN
+input[1] => output[1].DATAIN
+input[2] => output[2].DATAIN
+input[3] => output[3].DATAIN
+input[4] => output[4].DATAIN
+input[5] => output[5].DATAIN
+input[6] => output[6].DATAIN
+input[7] => output[7].DATAIN
+input[8] => output[8].DATAIN
+input[9] => output[9].DATAIN
+input[10] => output[10].DATAIN
+input[11] => output[11].DATAIN
+input[12] => output[12].DATAIN
+input[13] => output[13].DATAIN
+input[14] => output[14].DATAIN
+input[15] => output[15].DATAIN
+input[16] => output[16].DATAIN
+input[17] => output[17].DATAIN
+input[18] => output[18].DATAIN
+input[19] => output[19].DATAIN
+input[20] => output[20].DATAIN
+input[21] => output[21].DATAIN
+input[22] => output[22].DATAIN
+input[23] => output[23].DATAIN
+output[0] <= input[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= input[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= input[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= input[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= input[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= input[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= input[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= input[7].DB_MAX_OUTPUT_PORT_TYPE
+output[8] <= input[8].DB_MAX_OUTPUT_PORT_TYPE
+output[9] <= input[9].DB_MAX_OUTPUT_PORT_TYPE
+output[10] <= input[10].DB_MAX_OUTPUT_PORT_TYPE
+output[11] <= input[11].DB_MAX_OUTPUT_PORT_TYPE
+output[12] <= input[12].DB_MAX_OUTPUT_PORT_TYPE
+output[13] <= input[13].DB_MAX_OUTPUT_PORT_TYPE
+output[14] <= input[14].DB_MAX_OUTPUT_PORT_TYPE
+output[15] <= input[15].DB_MAX_OUTPUT_PORT_TYPE
+output[16] <= input[16].DB_MAX_OUTPUT_PORT_TYPE
+output[17] <= input[17].DB_MAX_OUTPUT_PORT_TYPE
+output[18] <= input[18].DB_MAX_OUTPUT_PORT_TYPE
+output[19] <= input[19].DB_MAX_OUTPUT_PORT_TYPE
+output[20] <= input[20].DB_MAX_OUTPUT_PORT_TYPE
+output[21] <= input[21].DB_MAX_OUTPUT_PORT_TYPE
+output[22] <= input[22].DB_MAX_OUTPUT_PORT_TYPE
+output[23] <= input[23].DB_MAX_OUTPUT_PORT_TYPE
+
+

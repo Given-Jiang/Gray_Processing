@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Gray_Processing">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_barrelshifter_GNV5DVAGHT:barrel_shifter|alt_dspbuilder_BarrelShiftAltr:BarrelShifteri|LPM_CLSHIFT:\gnopipeline:gndc:U0" CBX_FILE_NAME="lpm_clshift_juc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Gray_Processing|Gray_Processing_GN:\Gray_Processing_GN_0:inst_Gray_Processing_GN_0|Gray_Processing_GN_Gray_Processing_Gray_Processing_Module:gray_processing_gray_processing_module_0|alt_dspbuilder_multiplexer_GNCALBUTDR:multiplexer|alt_dspbuilder_sMuxAltr:nto1Multiplexeri|LPM_MUX:\gc:U0" CBX_FILE_NAME="mux_p1e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

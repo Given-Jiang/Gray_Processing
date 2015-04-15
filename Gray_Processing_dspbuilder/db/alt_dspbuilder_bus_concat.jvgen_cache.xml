@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jvgen name="alt_dspbuilder_bus_concat" family="Cyclone V"
+    style="SUPERSET" fixed-name="false" temporary="false">
+    <instance version="13.1" decorated-name="alt_dspbuilder_bus_concat_GN55ETJ4VI">
+        <generic name="WIDTHA" value="8"/>
+        <generic name="WIDTHB" value="16"/>
+        <port name="a" dir="Input"
+            vhdl-type="std_logic_vector(8-1 downto 0)" width="8" lowerbound="0"/>
+        <port name="aclr" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="b" dir="Input"
+            vhdl-type="std_logic_vector(16-1 downto 0)" width="16" lowerbound="0"/>
+        <port name="clock" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="output" dir="Output"
+            vhdl-type="std_logic_vector(24-1 downto 0)" width="24" lowerbound="0"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_bus_concat_GN55ETJ4VI.vhd"/>
+    </instance>
+    <instance version="13.1" decorated-name="alt_dspbuilder_bus_concat_GNIIOZRPJD">
+        <generic name="WIDTHA" value="8"/>
+        <generic name="WIDTHB" value="8"/>
+        <port name="a" dir="Input"
+            vhdl-type="std_logic_vector(8-1 downto 0)" width="8" lowerbound="0"/>
+        <port name="aclr" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="b" dir="Input"
+            vhdl-type="std_logic_vector(8-1 downto 0)" width="8" lowerbound="0"/>
+        <port name="clock" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="output" dir="Output"
+            vhdl-type="std_logic_vector(16-1 downto 0)" width="16" lowerbound="0"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_bus_concat_GNIIOZRPJD.vhd"/>
+    </instance>
+    <supersetport name="b" dir="Input"
+        vhdl-type="std_logic_vector(widthB-1 downto 0)" lowerbound="0"/>
+    <supersetport name="clock" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="a" dir="Input"
+        vhdl-type="std_logic_vector(widthA-1 downto 0)" lowerbound="0"/>
+    <supersetport name="aclr" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="output" dir="Output"
+        vhdl-type="std_logic_vector(widthA+widthB-1 downto 0)" lowerbound="0"/>
+    <parameter-static name="WIDTHA" default="8" type="NATURAL"/>
+    <parameter-static name="WIDTHB" default="8" type="NATURAL"/>
+</jvgen>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jvgen name="alt_dspbuilder_multiply_add" family="Cyclone V"
+    style="COMPLEX" fixed-name="false" temporary="false">
+    <instance version="13.1" decorated-name="alt_dspbuilder_multiply_add_GNKLXFKAO3">
+        <generic name="USE_DEDICATED_CIRCUITRY" value="1"/>
+        <generic name="PIPELINE_REGISTER" value="NoRegister"/>
+        <generic name="DIRECTION" value="AddAdd"/>
+        <generic name="REPRESENTATION" value="UNSIGNED"/>
+        <generic name="DATAWIDTH" value="8"/>
+        <generic name="NUMBER_MULTIPLIERS" value="3"/>
+        <generic name="USE_B_CONSTS" value="1"/>
+        <generic name="DATA1B_CONST" value="01001100"/>
+        <generic name="DATA2B_CONST" value="10010110"/>
+        <generic name="DATA3B_CONST" value="00011110"/>
+        <generic name="DATA4B_CONST" value="01001100"/>
+        <generic name="FAMILY" value="Cyclone V"/>
+        <port name="aclr" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="clock" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="data1a" dir="Input"
+            vhdl-type="std_logic_vector(8-1 downto 0)" width="8" lowerbound="0"/>
+        <port name="data2a" dir="Input"
+            vhdl-type="std_logic_vector(8-1 downto 0)" width="8" lowerbound="0"/>
+        <port name="data3a" dir="Input"
+            vhdl-type="std_logic_vector(8-1 downto 0)" width="8" lowerbound="0"/>
+        <port name="ena" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="result" dir="Output"
+            vhdl-type="std_logic_vector(18-1 downto 0)" width="18" lowerbound="0"/>
+        <port name="user_aclr" dir="Input" vhdl-type="std_logic"
+            width="1" lowerbound="0"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_multiply_add_GNKLXFKAO3.vhd"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_sMultAltr.vhd"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_AltMultConst.vhd"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_MultAdd.vhd"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_MultAddMF.vhd"/>
+    </instance>
+    <parameter-static name="USE_DEDICATED_CIRCUITRY" default="0" type="INTEGER"/>
+    <parameter-static name="PIPELINE_REGISTER" default="NoRegister" type="STRING"/>
+    <parameter-static name="DIRECTION" default="AddAdd" type="STRING"/>
+    <parameter-static name="REPRESENTATION" default="SIGNED" type="STRING"/>
+    <parameter-static name="DATAWIDTH" default="8" type="INTEGER"/>
+    <parameter-static name="NUMBER_MULTIPLIERS" default="2" type="INTEGER"/>
+    <parameter-static name="USE_B_CONSTS" default="0" type="NATURAL"/>
+    <parameter-static name="DATA1B_CONST" default="00000000" type="STRING"/>
+    <parameter-static name="DATA2B_CONST" default="00000000" type="STRING"/>
+    <parameter-static name="DATA3B_CONST" default="00000000" type="STRING"/>
+    <parameter-static name="DATA4B_CONST" default="00000000" type="STRING"/>
+    <parameter-static name="FAMILY" default="Stratix" type="STRING"/>
+</jvgen>

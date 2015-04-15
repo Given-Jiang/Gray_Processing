@@ -1,0 +1,127 @@
+# Reading C:/work_station/FPGA/modelsim/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# source tb_Gray_Processing.tcl 
+# reading modelsim.ini
+# Loading project DspBuilder
+# vsim -quiet -t {1 ps} work.tb_Gray_Processing 
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr2/gnr2_u
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr2/gnr2_u
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr2/gnr2_u
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr2/gnr2_u
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiplexer/nto1Multiplexeri/gc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiplexer/nto1Multiplexeri/gc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi/gnr3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/multiply_add/MultiplyAddi
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_gray_processing/dut/gray_processing_gray_processing_module_0/barrel_shifter/BarrelShifteri/gnopipeline/gndc/U0
+#  

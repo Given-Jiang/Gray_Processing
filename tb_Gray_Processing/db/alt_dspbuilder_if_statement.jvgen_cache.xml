@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jvgen name="alt_dspbuilder_if_statement" family="Cyclone V"
+    style="COMPLEX" fixed-name="false" temporary="false">
+    <instance version="13.1" decorated-name="alt_dspbuilder_if_statement_GN7VA7SRUP">
+        <generic name="HDLTYPE" value="STD_LOGIC_VECTOR"/>
+        <generic name="WIDTH" value="24"/>
+        <generic name="IF_EXPRESSION" value="(a=b) and (a /= c)"/>
+        <generic name="BWR" value="0"/>
+        <generic name="SIGNED" value="0"/>
+        <generic name="USE_ELSE_INPUT" value="0"/>
+        <generic name="USE_ELSE_OUTPUT" value="0"/>
+        <generic name="NUMBER_INPUTS" value="3"/>
+        <port name="a" dir="Input"
+            vhdl-type="std_logic_vector(24-1 downto 0)" width="24" lowerbound="0"/>
+        <port name="b" dir="Input"
+            vhdl-type="std_logic_vector(24-1 downto 0)" width="24" lowerbound="0"/>
+        <port name="c" dir="Input"
+            vhdl-type="std_logic_vector(24-1 downto 0)" width="24" lowerbound="0"/>
+        <port name="true" dir="Output" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_if_statement_GN7VA7SRUP.vhd"/>
+    </instance>
+    <parameter-static name="HDLTYPE" default="STD_LOGIC_VECTOR" type="STRING"/>
+    <parameter-static name="WIDTH" default="8" type="NATURAL"/>
+    <parameter-static name="IF_EXPRESSION" default="a" type="STRING"/>
+    <parameter-static name="BWR" default="0" type="NATURAL"/>
+    <parameter-static name="SIGNED" default="1" type="NATURAL"/>
+    <parameter-static name="USE_ELSE_INPUT" default="0" type="NATURAL"/>
+    <parameter-static name="USE_ELSE_OUTPUT" default="0" type="NATURAL"/>
+    <parameter-static name="NUMBER_INPUTS" default="1" type="INTEGER"/>
+</jvgen>

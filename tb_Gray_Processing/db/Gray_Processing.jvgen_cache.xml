@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jvgen name="Gray_Processing" family="Cyclone V" style="SUPERSET"
+    fixed-name="false" temporary="false">
+    <instance version="13.1" decorated-name="Gray_Processing_GN">
+        <port name="Avalon_ST_Sink_data" dir="Input"
+            vhdl-type="std_logic_vector(24-1 downto 0)" width="24" lowerbound="0"/>
+        <port name="Avalon_ST_Sink_endofpacket" dir="Input"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Avalon_ST_Sink_ready" dir="Output"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Avalon_ST_Sink_startofpacket" dir="Input"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Avalon_ST_Sink_valid" dir="Input"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Avalon_ST_Source_data" dir="Output"
+            vhdl-type="std_logic_vector(24-1 downto 0)" width="24" lowerbound="0"/>
+        <port name="Avalon_ST_Source_endofpacket" dir="Output"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Avalon_ST_Source_ready" dir="Input"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Avalon_ST_Source_startofpacket" dir="Output"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Avalon_ST_Source_valid" dir="Output"
+            vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="Clock" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="aclr" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <generated-file file-type="VHDL" filename="Gray_Processing_GN.vhd"/>
+        <generated-file file-type="VHDL" filename="Gray_Processing_GN_Gray_Processing_Gray_Processing_Module.vhd"/>
+        <generated-file file-type="VHDL" filename="tb_Gray_Processing.vhd"/>
+        <instantiates-child childname="alt_dspbuilder_clock" decorated-name="alt_dspbuilder_clock_GNF343OQUJ"/>
+        <instantiates-child childname="alt_dspbuilder_port" decorated-name="alt_dspbuilder_port_GNOC3SGKQJ"/>
+        <instantiates-child childname="alt_dspbuilder_port" decorated-name="alt_dspbuilder_port_GN37ALZBS4"/>
+        <instantiates-child childname="alt_dspbuilder_clock" decorated-name="alt_dspbuilder_clock_GNQFU4PUDH"/>
+        <instantiates-child childname="alt_dspbuilder_cast" decorated-name="alt_dspbuilder_cast_GNKXX25S2S"/>
+        <instantiates-child childname="alt_dspbuilder_cast" decorated-name="alt_dspbuilder_cast_GN6OMCQQS7"/>
+        <instantiates-child childname="alt_dspbuilder_cast" decorated-name="alt_dspbuilder_cast_GN7IAAYCSZ"/>
+        <instantiates-child childname="alt_dspbuilder_logical_bit_op" decorated-name="alt_dspbuilder_logical_bit_op_GNA5ZFEL7V"/>
+        <instantiates-child childname="alt_dspbuilder_barrelshifter" decorated-name="alt_dspbuilder_barrelshifter_GNV5DVAGHT"/>
+        <instantiates-child childname="alt_dspbuilder_gnd" decorated-name="alt_dspbuilder_gnd_GN"/>
+        <instantiates-child childname="alt_dspbuilder_vcc" decorated-name="alt_dspbuilder_vcc_GN"/>
+        <instantiates-child childname="alt_dspbuilder_multiply_add" decorated-name="alt_dspbuilder_multiply_add_GNKLXFKAO3"/>
+        <instantiates-child childname="alt_dspbuilder_multiplexer" decorated-name="alt_dspbuilder_multiplexer_GNCALBUTDR"/>
+        <instantiates-child childname="alt_dspbuilder_cast" decorated-name="alt_dspbuilder_cast_GNJGR7GQ2L"/>
+        <instantiates-child childname="alt_dspbuilder_constant" decorated-name="alt_dspbuilder_constant_GNZEH3JAKA"/>
+        <instantiates-child childname="alt_dspbuilder_if_statement" decorated-name="alt_dspbuilder_if_statement_GN7VA7SRUP"/>
+        <instantiates-child childname="alt_dspbuilder_bus_concat" decorated-name="alt_dspbuilder_bus_concat_GN55ETJ4VI"/>
+        <instantiates-child childname="alt_dspbuilder_delay" decorated-name="alt_dspbuilder_delay_GNHYCSAEGT"/>
+        <instantiates-child childname="alt_dspbuilder_bus_concat" decorated-name="alt_dspbuilder_bus_concat_GNIIOZRPJD"/>
+        <instantiates-child childname="alt_dspbuilder_constant" decorated-name="alt_dspbuilder_constant_GNNKZSYI73"/>
+        <instantiates-child childname="alt_dspbuilder_delay" decorated-name="alt_dspbuilder_delay_GNUECIBFDH"/>
+        <instantiates-child childname="alt_dspbuilder_constant" decorated-name="alt_dspbuilder_constant_GNPXZ5JSVR"/>
+        <instantiates-child childname="alt_dspbuilder_cast" decorated-name="alt_dspbuilder_cast_GNSB3OXIQS"/>
+        <instantiates-child childname="alt_dspbuilder_cast" decorated-name="alt_dspbuilder_cast_GN46N4UJ5S"/>
+        <instantiates-child childname="Gray_Processing" decorated-name="Gray_Processing_GN"/>
+        <instantiates-child childname="alt_dspbuilder_testbench_clock" decorated-name="alt_dspbuilder_testbench_clock_GNCGUFKHRR"/>
+        <instantiates-child childname="alt_dspbuilder_testbench_salt" decorated-name="alt_dspbuilder_testbench_salt_GNOXVOQUET"/>
+        <instantiates-child childname="alt_dspbuilder_testbench_salt" decorated-name="alt_dspbuilder_testbench_salt_GNDBMPYDND"/>
+        <instantiates-child childname="alt_dspbuilder_testbench_capture" decorated-name="alt_dspbuilder_testbench_capture_GNQX2JTRTZ"/>
+        <instantiates-child childname="alt_dspbuilder_testbench_capture" decorated-name="alt_dspbuilder_testbench_capture_GNHCRI5YMO"/>
+    </instance>
+    <source-file
+        name="E:\FPGA\SOC\Quartus\quartus\dsp_builder\design\VIP_LIB\Gray_Processing\Gray_Processing.slx" stamp="1423710685950"/>
+    <source-file
+        name="E:\FPGA\SOC\Quartus\quartus\dsp_builder\design\VIP_LIB\Gray_Processing\Gray_Processing.mdlxml" stamp="1423710690643"/>
+    <supersetport name="Avalon_ST_Sink_data" dir="Input"
+        vhdl-type="std_logic_vector(24-1 downto 0)" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Source_startofpacket" dir="Output"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Sink_endofpacket" dir="Input"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Source_valid" dir="Output"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Sink_valid" dir="Input"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Clock" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="aclr" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Source_ready" dir="Input"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Sink_ready" dir="Output"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Sink_startofpacket" dir="Input"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Source_endofpacket" dir="Output"
+        vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="Avalon_ST_Source_data" dir="Output"
+        vhdl-type="std_logic_vector(24-1 downto 0)" lowerbound="0"/>
+</jvgen>

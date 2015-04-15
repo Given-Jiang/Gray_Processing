@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jvgen name="alt_dspbuilder_barrelshifter" family="Cyclone V"
+    style="SUPERSET" fixed-name="false" temporary="false">
+    <instance version="13.1" decorated-name="alt_dspbuilder_barrelshifter_GNV5DVAGHT">
+        <generic name="WIDTH" value="18"/>
+        <generic name="DISTANCE_WIDTH" value="4"/>
+        <generic name="SIGNED" value="0"/>
+        <generic name="NDIRECTION" value="1"/>
+        <generic name="PIPELINE" value="0"/>
+        <generic name="USE_DEDICATED_CIRCUITRY" value="false"/>
+        <port name="a" dir="Input"
+            vhdl-type="std_logic_vector(18-1 downto 0)" width="18" lowerbound="0"/>
+        <port name="aclr" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="clock" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="distance" dir="Input"
+            vhdl-type="std_logic_vector(4-1 downto 0)" width="4" lowerbound="0"/>
+        <port name="ena" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="r" dir="Output"
+            vhdl-type="std_logic_vector(18-1 downto 0)" width="18" lowerbound="0"/>
+        <port name="user_aclr" dir="Input" vhdl-type="std_logic"
+            width="1" lowerbound="0"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_barrelshifter_GNV5DVAGHT.vhd"/>
+        <generated-file file-type="VHDL" filename="alt_dspbuilder_BarrelShiftAltr.vhd"/>
+    </instance>
+    <supersetport name="user_aclr" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="distance" dir="Input"
+        vhdl-type="std_logic_vector(DISTANCE_WIDTH-1 downto 0)" lowerbound="0"/>
+    <supersetport name="r" dir="Output"
+        vhdl-type="std_logic_vector(WIDTH-1 downto 0)" lowerbound="0"/>
+    <supersetport name="clock" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="direction" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="a" dir="Input"
+        vhdl-type="std_logic_vector(WIDTH-1 downto 0)" lowerbound="0"/>
+    <supersetport name="aclr" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="ena" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <parameter-static name="WIDTH" default="8" type="NATURAL"/>
+    <parameter-static name="DISTANCE_WIDTH" default="3" type="NATURAL"/>
+    <parameter-static name="SIGNED" default="1" type="INTEGER"/>
+    <parameter-static name="NDIRECTION" default="0" type="NATURAL"/>
+    <parameter-static name="PIPELINE" default="0" type="NATURAL"/>
+    <parameter-static name="USE_DEDICATED_CIRCUITRY" default="false" type="STRING"/>
+</jvgen>
